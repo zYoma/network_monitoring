@@ -1,0 +1,158 @@
+form {
+    margin: 0; /* Убираем отступы */
+   }
+	body {
+background-color: #ECF6CE;
+
+}
+h2{
+    margin: 0; /* Убираем отступы вокруг */
+    width: auto;
+	white-space: nowrap;  /* Текст в одну строку */
+	display:inline-block;
+	position: relative;
+	font-weight: normal;
+	font-size: 20pt;
+	text-align: left;
+    display: -moz-inline-stack;
+	zoom: 1;
+    *display: inline;
+   }
+   h3{
+    margin: 0; /* Убираем отступы вокруг */
+	width: 600px;
+	padding-top: 1%;
+	font-weight: normal;
+	font-size: 25pt;
+	
+   }
+ h4{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 18pt;
+	 width: auto;
+	position: relative;
+	display:inline-block;
+	display: -moz-inline-stack;
+	zoom: 1;
+        *display: inline;
+   }  
+    h5{
+    margin: 0; /* Убираем отступы вокруг */
+    
+	padding-top: 2%;
+	font-weight: normal;
+	font-size: 12pt;
+   }
+   
+   .block2 { 
+    width: 900px; 
+ padding: 5px; 
+   
+
+
+   }
+   
+   .layer {
+   padding-top: 10%;
+   }
+    .layer1 {
+   
+    
+    float: left; /* Обтекание по правому краю */
+    
+   }
+   .layer2 {
+
+    float: right; /* Обтекание по правому краю */
+
+	
+   }
+   
+
+
+.box{
+white-space:nowrap;
+}
+.my_container{
+	overflow:hidden;
+	width: 100%;
+	}
+.tb {
+      float: left; /* Обтекание по правому краю */
+   
+    
+
+
+
+
+
+
+    padding: 10px; /* Поля вокруг текста */
+    margin-right: 20px; /* Отступ справа */
+    width:  auto; /* Ширина блока */
+	
+   }   
+     #zyoma {
+position: fixed; 
+    right: 0; bottom: 0; 
+    padding: 10px; 
+	 }
+	   #back {
+	text-align: left;
+
+ border: 1px dashed black; /* Параметры границы */
+	border-radius: 15px; /* Уголки */
+		 float: left; /* Обтекание по правому краю */
+   padding: 10px; /* Поля вокруг текста */
+    margin-right: 20px; /* Отступ справа */
+	   padding-left: 15px;
+	   padding-right: 15px;
+	   padding-top: 15px;
+	   padding-bottom: 15px;
+background:#F0E68C; 
+border-radius: 15px; /* Уголки */
+-moz-border-radius: 15px;
+ -webkit-border-radius: 15px;
+	 }
+#back3 {
+
+	 border: 1px dashed black; /* Параметры границы */
+	 float: left; /* Обтекание по правому краю */
+   padding: 10px; /* Поля вокруг текста */
+    margin-right: 20px; /* Отступ справа */
+	   padding-left: 15px;
+	   padding-right: 15px;
+	   padding-top: 15px;
+	   padding-bottom: 15px;
+background:#F0E68C; 
+border-radius: 15px; /* Уголки */
+
+
+
+text-align: left;
+
+	 }	 
+	  #l2 {
+	 padding-top: 8%;
+	 }
+#copy {color: #ECF6CE;}	 
+
+
+ p {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 18pt; /* Размер шрифта в пунктах */ 
+   }
+     p2 {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 10pt; /* Размер шрифта в пунктах */ 
+   }
+ .my_style {
+display: inline-block;
+}
+#wrapper {
+  width: auto;
+  display: table-cell;
+  text-align: center; /* выравниваем по горизонтали */
+  vertical-align: middle; /* выравниваем по вертикали */
+}

@@ -1,0 +1,196 @@
+<style>
+
+body {
+background-color: #ECF6CE;
+
+}
+  A {
+    color: brown; /* Цвет ссылок */
+	text-decoration: none;
+   }
+   A:hover {
+    text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+    color: white; /* Цвет ссылки */
+	background-color: #8A0829;
+   } 
+.treeHTML {
+  line-height: normal;
+  
+}
+.treeHTML details {
+  display: block;
+}
+.treeHTML div {
+  position: relative;
+  margin: 0 0 0 .5em;
+  padding: 0 0 0 1.2em;
+ 
+}
+.treeHTML div:not(:last-child) { /* необязательно */
+  border-left: 1px solid #ccc;
+   
+}
+.treeHTML div:before { /* необязательно */
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.1em;
+  height: .5em;
+  border-bottom: 1px solid #ccc;
+   
+}
+.treeHTML div:last-child:before { /* необязательно */
+  border-left: 1px solid #ccc;
+}
+.treeHTML summary { /* стилями можно задать любую форму, например, тот же плюс. Я специально не стала усложнять, чтобы можно было проще разобраться в коде */
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.treeHTML details[open] summary { /* убрать рамку при фокусе */
+  outline: none;
+}
+.block-left{width:380px;height:100%;overflow:auto;float:left;background:#FFE4C4;}
+.block-right{width:auto;height:100%;overflow:auto;background:#ECF6CE;}
+.main{width:100%;height:100%;}
+.block-right A:hover{
+	background-color: transparent;
+}
+.block-right img {
+	margin-top: 5px;
+}
+.text{height:230px;width:90%;overflow:auto;}
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+ #back {
+
+float: left; /* Обтекание по правому краю */
+padding: 10px; /* Поля вокруг текста */
+
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 15px;
+padding-bottom: 15px;
+background:#F0E68C; 
+text-align: left;
+border:1px solid #ae037b;
+border-radius: 15px; /* Уголки */
+width: auto;
+
+
+	 }
+	   #back h2{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 16pt;
+	
+   }
+    #back h3{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 12pt;
+	
+   }
+   
+  #back2 h2{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 20pt;
+	margin-top: 15%;
+	
+	
+   }
+    #back2 h3{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 14pt;
+	margin-left: 30%;
+	
+   }
+       #back2 h4{
+    
+	font-weight: normal;
+	font-size: 8pt;
+	
+
+   }
+          #back2 p{
+    
+	margin-left: 22%;
+	
+
+   }
+
+    #back2 {
+	float: left; /* Обтекание по правому краю */
+
+
+margin-left: 30px;
+text-align: left;	
+	height: 420px;  
+width: 504px;	
+background:url(back_sw.png);
+ background-repeat: no-repeat;
+
+	}
+	    #log {
+
+text-align: left;	
+height: 320px;  
+width: 600px;	
+background:url(back_log.png);
+background-repeat: no-repeat;
+position: absolute;
+ bottom: 0px;
+ 
+	}
+	  #log h2{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 18pt;
+	margin-top: 6%;
+	margin-right: 50%;
+   }
+    #log h3{
+    margin: 0; /* Убираем отступы вокруг */
+	font-weight: normal;
+	font-size: 11pt;
+	margin-left: 15%;
+	line-height: 1.2;
+   }
+   #knopka{
+	  margin-top: 4%; 
+	  margin-left: 60%;
+   }
+      #knopka_op{
+	 
+	  margin-right: 2%;
+	  float: right; 
+	  
+   }
+     #len{
+	
+	  margin-left: 75%;
+	 
+   }
+     #zyoma {
+position: fixed; 
+    right: 0; bottom: 0; 
+    padding: 10px; 
+	 }
+
+</style>

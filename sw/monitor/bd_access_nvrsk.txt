@@ -1,0 +1,1577 @@
+10.228.80.40 qs1-nvrsk-verbovaya21-p2 Вербовая, д. 21
+10.228.80.101 qs1-nvrsk-verbovaya7-p1 Вербовая, д. 7
+10.228.80.100 qs1-nvrsk-verbovaya5-p2 Вербовая, д. 5
+10.228.83.108 qs1-nvrsk-vidova67a-p2 Видова, д. 67/к.А
+10.228.83.117 qs1-nvrsk-vidova65-p3 Видова, д. 65
+10.228.83.120 qs1-nvrsk-vidova58-p4 Видова, д. 58
+10.228.92.70 qs1-nvrsk-vidova173-p2 Видова, д. 173
+10.228.92.71 qs1-nvrsk-vidova173-p8 Видова, д. 173
+10.228.92.67 qs1-nvrsk-vidova171-p2 Видова, д. 171
+10.228.92.54 qs1-nvrsk-vidova169-p5 Видова, д. 169
+10.228.92.56 qs1-nvrsk-vidova169-p2 Видова, д. 169
+10.228.92.79 qs1-nvrsk-vidova167-p7 Видова, д. 167
+10.228.92.72 d1-nvrsk-vidova165-p10 Видова, д. 165
+10.228.92.74 qs1-nvrsk-vidova165-p2 Видова, д. 165
+10.228.92.75 qs1-nvrsk-vidova165-p4 Видова, д. 165
+10.228.83.52 d1-nvrsk-vidova119a-p3 Видова, д. 119/к.А
+10.228.83.36 qs1-nvrsk-vidova125-p5 Видова, д. 125
+10.228.83.55 qs1-nvrsk-vidova160a Видова, д. 160/к.А
+10.228.83.10 qs1-nvrsk-vidova182a Видова, д. 182/к.А
+10.228.83.8 qs1-nvrsk-vidova178-p3 Видова, д. 178
+10.228.83.16 qs1-nvrsk-vidova186-p2 Видова, д. 186
+10.228.83.23 qs1-nvrsk-vidova168-p2 Видова, д. 168
+10.228.83.25 qs1-nvrsk-vidova164-p2 Видова, д. 164
+10.228.83.34 qs1-nvrsk-vidova162-p1 Видова, д. 162
+10.228.83.29 qs1-nvrsk-vidova156a-p3 Видова, д. 156/к.А
+10.228.83.17 qs1-nvrsk-vidova190-p3 Видова, д. 190
+10.228.84.39 d2-nvrsk-vidova180-p2 Видова, д. 180
+10.228.84.19 qs1-nvrsk-vidova87-p1 Видова, д. 87
+10.228.92.87 qs1-nvrsk-vidova163a-p2 Видова, д. 163/к.А
+10.228.83.82 qs1-nvrsk-anapskoe21-p2 Анапское, д. 21
+10.228.83.80 qs1-nvrsk-anapskoe23a-p5 Анапское, д. 23/к.А
+10.228.83.85 qs1-nvrsk-anapskoe19-p4 Анапское, д. 19
+10.228.83.96 qs1-nvrsk-anapskoe16-p2 Анапское, д. 16
+10.228.83.98 qs1-nvrsk-anapskoe12-p5 Анапское, д. 12
+10.228.92.62 qs1-nvrsk-anapskoe108-p4 Анапское, д. 108
+10.228.92.65 qs1-nvrsk-anapskoe108-p7 Анапское, д. 108
+10.228.83.102 qs1-nvrsk-anapskoe7-p1 Анапское, д. 7
+10.228.83.62 qs1-nvrsk-anapskoe66b-p2 Анапское, д. 66/к.Б
+10.228.83.42 qs1-nvrsk-anapskoe64-p2 Анапское, д. 64
+10.228.83.70 qs1-nvrsk-anapskoe20-p2 Анапское, д. 20
+10.228.83.103 qs1-nvrsk-anapskoe5-p1 Анапское, д. 5
+10.228.83.105 qs1-nvrsk-anapskoe4-p2 Анапское, д. 4
+10.228.83.76 qs1-nvrsk-anapskoe39 Анапское, д. 39
+10.228.83.72 qs1-nvrsk-anapskoe27 Анапское, д. 27
+10.228.91.198 es1-nvrsk-desant47-p2 Героев Десантников, д. 47
+10.228.82.108 qs1-nvrsk-desantnikov3 Героев Десантников, д. 3
+10.228.81.86 qs1-nvrsk-desantnikov28-p3 Героев Десантников, д. 28
+10.228.81.68 qs1-nvrsk-desantnikov20-p2 Героев Десантников, д. 20
+10.228.81.66 qs1-nvrsk-desantnikov18-p2 Героев Десантников, д. 18
+10.228.81.64 qs1-nvrsk-desantnikov14-p2 Героев Десантников, д. 14
+10.228.81.52 qs1-nvrsk-desantnikov10-p2 Героев Десантников, д. 10
+10.228.81.50 qs1-nvrsk-desantnikov24-p2 Героев Десантников, д. 24
+10.228.81.69 qs1-nvrsk-desantnikov22-p1 Героев Десантников, д. 22
+10.228.91.216 es1-nvrsk-desant79-p1 Героев Десантников, д. 79
+10.228.91.209 es1-nvrsk-desant65-3 Героев Десантников, д. 65/к./3
+10.228.91.208 es1-nvrsk-desant65-2-p2 Героев Десантников, д. 65/к./2
+10.228.82.140 qs1-nvrsk-desantnikov15 Героев Десантников, д. 15
+10.228.82.131 qs1-nvrsk-desantnikov27-p5 Героев Десантников, д. 27
+10.228.82.132 qs1-nvrsk-desantnikov27-p2 Героев Десантников, д. 27
+10.228.82.74 qs1-nvrsk-alekseeva29-p3 Алексеева, д. 29
+10.228.81.35 qs1-nvrsk-volgogradskaya20-p2 Волгоградская, д. 20
+10.228.81.77 qs1-nvrsk-volgogradskaya34-p2 Волгоградская, д. 34
+10.228.81.80 qs1-nvrsk-volgogradskaya36-p2 Волгоградская, д. 36
+10.228.81.47 qs1-nvrsk-volgogradskaya16-p5 Волгоградская, д. 16
+10.228.81.36 qs1-nvrsk-volgogradskaya12-p1 Волгоградская, д. 12
+10.228.81.21 qs1-nvrsk-volgogradskaya22-p3 Волгоградская, д. 22
+10.228.80.110 qs1-nvrsk-dzerjinskogo219-p2 Дзержинского, д. 219
+10.228.80.21 qs1-nvrsk-dzerjinskogo216-p1 Дзержинского, д. 216
+10.228.91.188 es1-nvrsk-dzer191-p2 Дзержинского, д. 191
+10.228.91.187 es1-nvrsk-dzer189-p2 Дзержинского, д. 189
+10.228.91.185 es1-nvrsk-dzer187-p2 Дзержинского, д. 187
+10.228.91.183 es1-nvrsk-dzer185-p2 Дзержинского, д. 185
+10.228.91.184 es1-nvrsk-dzer185-p5 Дзержинского, д. 185
+10.228.91.182 es1-nvrsk-dzer183 Дзержинского, д. 183
+10.228.82.151 qs1-nvrsk-dzerjinskogo174-p2 Дзержинского, д. 174
+10.228.82.149 qs1-nvrsk-dzerjinskogo172-p5 Дзержинского, д. 172
+10.228.81.57 qs1-nvrsk-dzerjinskogo209-p2 Дзержинского, д. 209
+10.228.82.113 qs1-nvrsk-dzerjinskogo164-p2 Дзержинского, д. 164
+10.228.82.116 qs1-nvrsk-dzerjinskogo162 Дзержинского, д. 162
+10.228.82.145 qs1-nvrsk-dzerjinskogo160-p5 Дзержинского, д. 160
+10.228.82.7 qs1-nvrsk-dzerjinskogo150-p2 Дзержинского, д. 150
+10.228.82.63 qs1-nvrsk-dzerjinskogo136-p1 Дзержинского, д. 136
+10.228.82.58 qs1-nvrsk-dzerjinskogo132-p1 Дзержинского, д. 132
+10.228.81.56 qs1-nvrsk-dzerjinskogo207-p2 Дзержинского, д. 207
+10.228.80.28 qs1-nvrsk-dzerjinskogo206-p1 Дзержинского, д. 206
+10.228.81.55 qs1-nvrsk-dzerjinskogo205a Дзержинского, д. 205/к.А
+10.228.91.197 es1-nvrsk-dzer205-p2 Дзержинского, д. 205
+10.228.81.230 d1-nvrsk-dzerjinskogo204-p6 Дзержинского, д. 204
+10.228.80.46 qs1-nvrsk-dzerjinskogo202-p2 Дзержинского, д. 202
+10.228.80.31 qs1-nvrsk-dzerjinskogo198-p3 Дзержинского, д. 198
+10.228.91.190 es1-nvrsk-dzer197-p2 Дзержинского, д. 197
+10.228.91.189 es1-nvrsk-dzer195-p2 Дзержинского, д. 195
+10.228.82.148 qs1-nvrsk-dzerjinskogo168-p3 Дзержинского, д. 168
+10.228.83.63 qs1-nvrsk-dneprov5-p2 Днепровский, д. 5
+10.228.83.89 qs1-nvrsk-gajdara27-p2 Гайдара, д. 27
+10.228.83.94 qs1-nvrsk-gajdara29-p5 Гайдара, д. 29
+10.228.83.33 qs1-nvrsk-gajdara2a-p2 Гайдара, д. 2/к.А
+10.228.82.129 qs1-nvrsk-desantnikov31-p5 Героев Десантников, д. 31
+10.228.82.130 qs1-nvrsk-desantnikov31-p2 Героев Десантников, д. 31
+10.228.82.128 qs1-nvrsk-desantnikov33-p3 Героев Десантников, д. 33
+10.228.82.152 qs1-nvrsk-desantnikov39-p2 Героев Десантников, д. 39
+10.228.82.159 qs1-nvrsk-desantnikov35a Героев Десантников, д. 35/к.А
+10.228.82.157 qs1-nvrsk-desantnikov35-p5 Героев Десантников, д. 35
+10.228.82.158 qs1-nvrsk-desantnikov35-p2 Героев Десантников, д. 35
+10.228.91.218 es1-nvrsk-desant59-p2 Героев Десантников, д. 59
+10.228.91.214 es1-nvrsk-desant57-p2 Героев Десантников, д. 57
+10.228.91.224 es1-nvrsk-desant97-p1 Героев Десантников, д. 97
+10.228.91.222 es1-nvrsk-desant95 Героев Десантников, д. 95
+10.228.91.223 es2-nvrsk-desant95 Героев Десантников, д. 95
+10.228.91.226 es1-nvrsk-desant91 Героев Десантников, д. 91
+10.228.91.220 es1-nvrsk-desant85-p1 Героев Десантников, д. 85
+10.228.91.221 es1-nvrsk-desant85-p2 Героев Десантников, д. 85
+10.228.91.217 es1-nvrsk-desant81-p1 Героев Десантников, д. 81
+10.228.82.111 qs1-nvrsk-desantnikov11-p4 Героев Десантников, д. 11
+10.228.82.133 qs1-nvrsk-desantnikov23-p2 Героев Десантников, д. 23
+10.228.82.134 qs1-nvrsk-desantnikov23-p5 Героев Десантников, д. 23
+10.228.82.135 qs1-nvrsk-desantnikov21-p5 Героев Десантников, д. 21
+10.228.82.139 qs1-nvrsk-desantnikov17 Героев Десантников, д. 17
+10.228.81.60 qs1-nvrsk-volgogradskaya48-p2 Волгоградская, д. 48
+10.228.81.61 qs1-nvrsk-volgogradskaya50-p2 Волгоградская, д. 50
+10.228.80.137 qs1-nvrsk-lenina9-p2 Ленина, д. 9
+10.228.82.101 qs1-nvrsk-lenina87-p5 Ленина, д. 87
+10.228.82.99 qs1-nvrsk-lenina85-p2 Ленина, д. 85
+10.228.82.100 qs1-nvrsk-lenina85-p5 Ленина, д. 85
+10.228.82.109 qs1-nvrsk-lenina83-p2 Ленина, д. 83
+10.228.82.98 qs1-nvrsk-lenina81-p3 Ленина, д. 81
+10.228.82.93 qs1-nvrsk-lenina75-p5 Ленина, д. 75
+10.228.82.142 qs1-nvrsk-lenina71-p3 Ленина, д. 71
+10.228.82.92 qs1-nvrsk-lenina61-p3 Ленина, д. 61
+10.228.80.153 qs1-nvrsk-lenina6-p1 Ленина, д. 6
+10.228.82.77 qs1-nvrsk-lenina57-p2 Ленина, д. 57
+10.228.82.79 qs1-nvrsk-lenina55-p5 Ленина, д. 55
+10.228.82.80 qs1-nvrsk-lenina55-p2 Ленина, д. 55
+10.228.80.132 qs1-nvrsk-lenina5-p2 Ленина, д. 5
+10.228.82.124 qs1-nvrsk-lenina49-p2 Ленина, д. 49
+10.228.82.122 qs1-nvrsk-lenina47-p2 Ленина, д. 47
+10.228.82.126 qs1-nvrsk-lenina67-p5 Ленина, д. 67
+10.228.82.127 qs1-nvrsk-lenina67-p2 Ленина, д. 67
+10.228.82.50 qs1-nvrsk-lenina9b Ленина, д. 9/к.Б
+10.228.82.65 qs1-nvrsk-lenina91a-p1 Ленина, д. 91/к.А
+10.228.80.140 qs1-nvrsk-lenina12-p3 Ленина, д. 12
+10.228.82.43 qs1-nvrsk-lenina11-p2 Ленина, д. 11
+10.228.80.139 qs1-nvrsk-lenina10-p3 Ленина, д. 10
+10.228.82.83 qs1-nvrsk-lenina31-p2 Ленина, д. 31
+10.228.82.86 qs1-nvrsk-lenina29-p2 Ленина, д. 29
+10.228.80.186 qs1-nvrsk-lenina24-p3 Ленина, д. 24
+10.228.82.49 qs1-nvrsk-lenina21-p2 Ленина, д. 21
+10.228.82.55 qs1-nvrsk-lenina19-p2 Ленина, д. 19
+10.228.80.149 qs1-nvrsk-lenina18-p3 Ленина, д. 18
+10.228.82.90 qs1-nvrsk-lenina69-p5 Ленина, д. 69
+10.228.82.118 qs1-nvrsk-lenina41-p1 Ленина, д. 41
+10.228.83.47 qs1-nvrsk-lunacharskogo10-p2 Луначарского, д. 10
+10.228.83.38 qs1-nvrsk-lunacharskogo12-p2 Луначарского, д. 12
+10.228.81.19 qs1-nvrsk-malozemelskaya14-p2 Малоземельская, д. 14
+10.228.81.12 qs1-nvrsk-malozemelskaya4 Малоземельская, д. 4
+10.228.81.73 qs1-nvrsk-malozemelskaya5-p2 Малоземельская, д. 5
+10.228.81.74 qs1-nvrsk-malozemelskaya5-p3 Малоземельская, д. 5
+10.228.91.151 es1-nvrsk-malozemelskaya11-p3 Малоземельская, д. 11
+10.228.91.150 es1-nvrsk-malozemelskaya13-p2 Малоземельская, д. 13
+10.228.91.152 es1-nvrsk-malozemelskaya15-p2 Малоземельская, д. 15
+10.228.91.153 es1-nvrsk-malozemelskaya15-p4 Малоземельская, д. 15
+10.228.91.154 es1-nvrsk-malozemelskaya19 Малоземельская, д. 19
+10.228.91.149 es1-nvrsk-malozem9-p4 Малоземельская, д. 9
+10.228.91.156 es1-nvrsk-malozemelskaya23 Малоземельская, д. 23
+10.228.80.89 qs1-nvrsk-molodezh14-p1 Молодежная, д. 14
+10.228.80.95 qs1-nvrsk-molodezh26-p2 Молодежная, д. 26
+10.228.83.54 qs2-nvrsk-dneprov11-p2 Днепровский, д. 11
+10.228.84.23 qs3-nvrsk-dneprov11-p2 Днепровский, д. 11
+10.228.81.18 qs1-nvrsk-zolotarevskogo8-p2 Золотаревского, д. 8
+10.228.81.41 qs1-nvrsk-zolotarevskogo4-p2 Золотаревского, д. 4
+10.228.81.46 qs1-nvrsk-zolotarevskogo2a-p2 Золотаревского, д. 2/к.А
+10.228.82.164 qs1-nvrsk-industrialnaya6-p1 Индустриальная, д. 6
+10.228.83.53 qs1-nvrsk-industrialnaya5a-p2 Индустриальная, д. 5/к.А
+10.228.82.162 qs1-nvrsk-industrialnaya8-p2 Индустриальная, д. 8
+10.228.80.157 qs1-nvrsk-isaeva4-p2 Исаева, д. 4
+10.228.82.67 qs1-nvrsk-karamzina25-p2 Карамзина, д. 25
+10.228.82.73 qs1-nvrsk-karamzina37-p1 Карамзина, д. 37
+10.228.82.70 qs1-nvrsk-karamzina31 Карамзина, д. 31
+10.228.82.29 qs1-nvrsk-karamzina53-p2 Карамзина, д. 53
+10.228.82.20 qs1-nvrsk-karamzina41 Карамзина, д. 41
+10.228.83.161 qs1-nvrsk-marksa1-p1 Карла Маркса, д. 1
+10.228.83.147 qs1-nvrsk-marksa2-p3 Карла Маркса, д. 2
+10.228.83.137 qs1-nvrsk-marksa27-p5 Карла Маркса, д. 27
+10.228.82.42 qs1-nvrsk-gluhova3-p2 Глухова, д. 3
+10.228.82.48 qs1-nvrsk-gluhova14-p3 Глухова, д. 14
+10.228.83.139 qs1-nvrsk-gubernskogo41-p2 Губернского, д. 41
+10.228.83.148 qs1-nvrsk-gubernskogo3-p2 Губернского, д. 3
+10.228.80.54 qs1-nvrsk-dzerjinskogo230 Дзержинского, д. 230
+10.228.80.53 qs1-nvrsk-dzerjinskogo228 Дзержинского, д. 228
+10.228.80.52 qs1-nvrsk-dzerjinskogo226 Дзержинского, д. 226
+10.228.80.48 qs1-nvrsk-dzerjinskogo224-p2 Дзержинского, д. 224
+10.228.92.83 qs1-nvrsk-vidova157-p2 Видова, д. 157
+10.228.81.33 qs1-nvrsk-volgogradskaya4-p1 Волгоградская, д. 4
+10.228.81.32 qs1-nvrsk-volgogradskaya6-p2 Волгоградская, д. 6
+10.228.81.10 qs1-nvrsk-volgogradskaya30-p1 Волгоградская, д. 30
+10.228.81.9 qs1-nvrsk-volgogradskaya28-p2 Волгоградская, д. 28
+10.228.81.20 qs1-nvrsk-volgogradskaya26a-p3 Волгоградская, д. 26/к.А
+10.228.81.81 qs1-nvrsk-volgogradskaya38-p2 Волгоградская, д. 38
+10.228.81.8 qs1-nvrsk-volgogradskaya26-p2 Волгоградская, д. 26
+10.228.81.82 qs1-nvrsk-volgogradskaya40-p2 Волгоградская, д. 40
+10.228.80.133 qs1-nvrsk-kornickogo22-p4 Корницкого, д. 22
+10.228.91.166 es1-nvrsk-kunikova52a Куникова, д. 52/к.А
+10.228.91.167 es1-nvrsk-kunikova54-p3 Куникова, д. 54
+10.228.91.171 es1-nvrsk-kunikova58-p2 Куникова, д. 58
+10.228.91.172 es1-nvrsk-kunikova58-p1 Куникова, д. 58
+10.228.91.169 es1-nvrsk-kunikova58a-p1 Куникова, д. 58/к.А
+10.228.91.173 es1-nvrsk-kunikova60-p1 Куникова, д. 60
+10.228.91.176 es1-nvrsk-kunikova62a Куникова, д. 62/к.А
+10.228.91.177 es1-nvrsk-kunikova64-p2 Куникова, д. 64
+10.228.91.179 es1-nvrsk-kunikova64a-p2 Куникова, д. 64/к.А
+10.228.91.181 es1-nvrsk-kunikova66-p2 Куникова, д. 66
+10.228.91.165 es1-nvrsk-kunikova50-p5 Куникова, д. 50
+10.228.91.230 d1-nvrsk-kunikova40-p2 Куникова, д. 40
+10.228.91.159 es1-nvrsk-kunikova38-p2 Куникова, д. 38
+10.228.91.160 es1-nvrsk-kunikova38-p5 Куникова, д. 38
+10.228.91.157 es1-nvrsk-kunikova36-p3 Куникова, д. 36
+10.228.91.158 es1-nvrsk-kunikova36-p7 Куникова, д. 36
+10.228.81.29 qs1-nvrsk-kunikova94 Куникова, д. 94
+10.228.81.27 qs1-nvrsk-kunikova104 Куникова, д. 104
+10.228.82.8 qs1-nvrsk-kunikova21-p1 Куникова, д. 21
+10.228.82.5 qs1-nvrsk-kunikova19-p2 Куникова, д. 19
+10.228.83.113 qs1-nvrsk-kutuzovskaya13-p2 Кутузовская, д. 13
+10.228.84.9 d1-nvrsk-kutuzovskaya13-p2 Кутузовская, д. 13
+10.228.83.167 qs1-nvrsk-ledneva8-p2 Леднева, д. 8
+10.228.80.200 qs1-nvrsk-lenina40a-p1 Ленина, д. 40/к.А
+10.228.82.120 qs1-nvrsk-lenina39-p5 Ленина, д. 39
+10.228.82.104 qs1-nvrsk-lenina91-p9 Ленина, д. 91
+10.228.80.143 qs1-nvrsk-nabereg47-p1 Серебрякова, д. 47
+10.228.80.166 qs1-nvrsk-nabereg35-p2 Серебрякова, д. 35
+10.228.83.143 qs1-nvrsk-nabereg25-p2 Серебрякова, д. 25
+10.228.80.183 qs1-nvrsk-nabereg65-p2 Серебрякова, д. 65
+10.228.80.193 qs1-nvrsk-nabereg59-p2 Серебрякова, д. 59
+10.228.80.142 qs1-nvrsk-nabereg45-p2 Серебрякова, д. 45
+10.228.80.141 qs1-nvrsk-nabereg43-p1 Серебрякова, д. 43
+10.228.80.78 qs1-nvrsk-pionerskaya15-p2 Пионерская, д. 15
+10.228.80.11 qs1-nvrsk-pionerskaya33-p2 Пионерская, д. 33
+10.228.80.8 qs1-nvrsk-pionerskaya25-p2 Пионерская, д. 25
+10.228.80.80 qs1-nvrsk-pionerskaya17-p2 Пионерская, д. 17
+10.228.80.152 qs1-nvrsk-suvorov1-p4 Суворовская, д. 1
+10.228.80.147 qs1-nvrsk-suvorov13-p3 Суворовская, д. 13
+10.228.80.176 qs1-nvrsk-suvorov39-p7 Суворовская, д. 39/49
+10.228.80.189 qs1-nvrsk-suvorov19-p5 Суворовская, д. 19
+10.228.83.19 qs1-nvrsk-tobolsk7 Тобольская, д. 7
+10.228.83.163 qs1-nvrsk-tolstogo1-p3 Толстого, д. 1
+10.228.80.83 qs1-nvrsk-molodezh4-p3 Молодежная, д. 4
+10.228.80.84 qs1-nvrsk-molodezh6-p2 Молодежная, д. 6
+10.228.82.176 qs1-nvrsk-moskowskaya5-p2 Московская, д. 5
+10.228.82.177 qs1-nvrsk-moskowskaya5-p5 Московская, д. 5
+10.228.83.65 qs1-nvrsk-moskowskaya12-p2 Московская, д. 12
+10.228.83.66 qs1-nvrsk-moskowskaya12-p5 Московская, д. 12
+10.228.83.69 qs1-nvrsk-moskowskaya6-p2 Московская, д. 6
+10.228.82.174 qs1-nvrsk-moskowskaya9-p1 Московская, д. 9
+10.228.81.26 d1-nvrsk-myshakskoe46 Мысхакское, д. 46
+10.228.80.144 qs1-nvrsk-nabereg49-p1 Серебрякова, д. 49
+10.228.80.179 qs1-nvrsk-nabereg69-p1 Серебрякова, д. 69
+10.228.80.180 qs1-nvrsk-nabereg69-p5 Серебрякова, д. 69
+10.228.80.159 qs1-nvrsk-sverdlova18-p3 Свердлова, д. 18
+10.228.80.161 qs1-nvrsk-sverdlova18a-p2 Свердлова, д. 18/к.А
+10.228.82.24 qs1-nvrsk-rubaho23 СнайРубахо, д. 23
+10.228.83.158 qs1-nvrsk-sovetov66-p2 Советов, д. 66
+10.228.83.166 qs1-nvrsk-sovetov34-p2 Советов, д. 34
+10.228.83.170 es1-nvrsk-ledneva5 Леднева, д. 5
+10.228.80.213 qs1-nvrsk-engels66-p2 Энгельса, д. 66
+10.228.80.212 qs1-nvrsk-engels70 Энгельса, д. 70
+10.228.80.202 qs1-nvrsk-engels76-p2 Энгельса, д. 76
+10.228.80.207 qs1-nvrsk-engels98-p2 Энгельса, д. 98
+10.228.80.203 qs1-nvrsk-engels78-p2 Энгельса, д. 78
+10.228.80.33 qs1-nvrsk-hvorostyanskogo15-p1 Хворостянского, д. 15
+10.228.80.35 qs1-nvrsk-hvorostyanskogo15-p3 Хворостянского, д. 15
+10.228.80.77 qs1-nvrsk-hvorostyanskogo1-p2 Хворостянского, д. 1
+10.228.83.141 qs1-nvrsk-cedrika4 Цедрика, д. 4
+10.228.82.181 qs1-nvrsk-cemdolinskaja4-p2 Цемдолинская, д. 4
+10.228.82.173 qs1-nvrsk-ciolkovskogo7-p3 Циолковского, д. 7
+10.228.80.146 qs1-nvrsk-chernjahov3-p3 Черняховского, д. 3
+10.228.82.75 qs1-nvrsk-chekhova20-p2 Чехова, д. 20
+10.228.83.83 qs1-nvrsk-shillerovskaya4-p1 Шиллеровская, д. 4
+10.228.83.124 qs1-nvrsk-schorsa3-p1 Щорса, д. 3
+10.228.83.68 qs1-nvrsk-anapskoe18 Анапское, д. 18
+10.228.82.179 qs1-nvrsk-anapskoe50-p2 Анапское, д. 50
+10.228.83.109 qs1-nvrsk-vidova67a-p5 Видова, д. 67/к.А
+10.228.92.58 qs1-nvrsk-vidova169-p8 Видова, д. 169
+10.228.83.64 qs1-nvrsk-vidova135-p1 Видова, д. 135
+10.228.83.169 d1-nvrsk-sovetov56 Советов, д. 56
+10.228.80.138 qs1-nvrsk-lenina7-p2 Ленина, д. 7
+10.228.82.12 qs1-nvrsk-alekseeva22-p2 Алексеева, д. 22
+10.228.82.115 qs1-nvrsk-dzerjinskogo164a-p3 Дзержинского, д. 164/к.А
+10.228.91.203 es1-nvrsk-desant61-p3 Героев Десантников, д. 61
+10.228.81.70 qs1-nvrsk-desantnikov30-p2 Героев Десантников, д. 30
+10.228.82.141 qs1-nvrsk-desantnikov9 Героев Десантников, д. 9
+10.228.80.49 qs1-nvrsk-dzerjinskogo224-p3 Дзержинского, д. 224
+10.228.80.105 qs1-nvrsk-dzerjinskogo219a Дзержинского, д. 219/к.А
+10.228.82.117 qs1-nvrsk-lenina43-p3 Ленина, д. 43
+10.228.80.92 qs1-nvrsk-molodezh20-p2 Молодежная, д. 20
+10.228.82.41 qs1-nvrsk-karamzina2-p5 Карамзина, д. 2/8
+10.228.83.173 es1-nvrsk-marksa49 Карла Маркса, д. 49
+10.228.91.180 es1-nvrsk-kunikova64a-p5 Куникова, д. 64/к.А
+10.228.83.112 qs1-nvrsk-kutuzovskaya25-p5 Кутузовская, д. 25
+10.228.80.135 qs1-nvrsk-lezhenina88a-p1 Леженина, д. 88/к.А
+10.228.83.18 qs1-nvrsk-tobolsk5 Тобольская, д. 5
+10.228.80.217 qs1-nvrsk-tolstogo13-p2 Толстого, д. 13
+10.228.83.154 qs1-nvrsk-rubina3-p3 Рубина, д. 3
+10.228.80.192 qs1-nvrsk-nabereg57a-p1 Серебрякова, д. 57/к.А
+10.228.83.121 qs1-nvrsk-vidova58-p2 Видова, д. 58
+10.228.83.21 qs1-nvrsk-vidova188-p3 Видова, д. 188
+10.228.83.26 qs1-nvrsk-vidova164-p5 Видова, д. 164
+10.228.83.15 qs2-nvrsk-vidova182 Видова, д. 182
+10.228.83.126 qs1-nvrsk-vidova85-p2 Видова, д. 85
+10.228.80.199 qs1-nvrsk-lenina44-p3 Ленина, д. 44
+10.228.82.52 qs1-nvrsk-lenina13-p2 Ленина, д. 13
+10.228.82.53 qs1-nvrsk-lenina15-p3 Ленина, д. 15
+10.228.91.155 es1-nvrsk-malozemelskaya21 Малоземельская, д. 21
+10.228.83.59 qs1-nvrsk-dneprov7-p2 Днепровский, д. 7
+10.228.83.31 qs1-nvrsk-dnestr2-p2 Днестровская, д. 2
+10.228.81.16 qs1-nvrsk-zolotarevskogo12-p2 Золотаревского, д. 12
+10.228.82.163 qs1-nvrsk-industrialnaya8-p5 Индустриальная, д. 8
+10.228.80.158 qs1-nvrsk-isaeva4-p3 Исаева, д. 4
+10.228.82.38 qs1-nvrsk-karamzina6-p1 Карамзина, д. 6
+10.228.82.60 qs1-nvrsk-dzerjinskogo128-p1 Дзержинского, д. 128
+10.228.82.153 qs1-nvrsk-desantnikov37-p3 Героев Десантников, д. 37
+10.228.81.72 qs1-nvrsk-desantnikov38-p2 Героев Десантников, д. 38
+10.228.83.149 qs1-nvrsk-gubernskogo2-p3 Губернского, д. 2
+10.228.80.50 qs1-nvrsk-dzerjinskogo224-p4 Дзержинского, д. 224
+10.228.82.125 qs1-nvrsk-lenina65-p2 Ленина, д. 65
+10.228.82.88 qs1-nvrsk-lenina53-p5 Ленина, д. 53
+10.228.82.84 qs1-nvrsk-lenina31-p5 Ленина, д. 31
+10.228.82.34 qs1-nvrsk-lenina23 Ленина, д. 23
+10.228.82.54 qs1-nvrsk-lenina17-p2 Ленина, д. 17
+10.228.83.39 qs1-nvrsk-lunacharskogo4-p2 Луначарского, д. 4
+10.228.81.42 qs1-nvrsk-zolotarevskogo4-p5 Золотаревского, д. 4
+10.228.82.39 qs1-nvrsk-karamzina6-p2 Карамзина, д. 6
+10.228.83.157 qs1-nvrsk-marksa35 Карла Маркса, д. 35
+10.228.80.136 qs1-nvrsk-lezhenina90 Леженина, д. 90
+10.228.82.169 qs1-nvrsk-kozlova65a-p3 Козлова, д. 65/к.А
+10.228.80.134 qs1-nvrsk-kornickogo24 Корницкого, д. 24
+10.228.91.168 es1-nvrsk-kunikova54-p7 Куникова, д. 54
+10.228.91.170 es1-nvrsk-kunikova58a-p2 Куникова, д. 58/к.А
+10.228.91.162 es1-nvrsk-kunikova42-p5 Куникова, д. 42
+10.228.80.195 qs1-nvrsk-nabereg61-p6 Серебрякова, д. 61
+10.228.80.81 qs1-nvrsk-pionerskaya17-p3 Пионерская, д. 17
+10.228.80.71 qs1-nvrsk-pionerskaya21-p1 Пионерская, д. 21
+10.228.82.21 qs1-nvrsk-ryzhova30 Рыжова, д. 30
+10.228.83.156 qs1-nvrsk-svobody3-p2 Свободы, д. 3/5
+10.228.83.87 qs1-nvrsk-moskowskaya8-p2 Московская, д. 8
+10.228.81.40 qs1-nvrsk-myshakskoe56-p5 Мысхакское, д. 56
+10.228.83.45 qs1-nvrsk-anapskoe62-p5 Анапское, д. 62
+10.228.83.43 qs1-nvrsk-anapskoe64-p5 Анапское, д. 64
+10.228.82.180 qs1-nvrsk-anapskoe52-p2 Анапское, д. 52
+10.228.80.41 qs1-nvrsk-verbovaya17-p2 Вербовая, д. 17
+10.228.92.60 qs1-nvrsk-vidova169-p11 Видова, д. 169
+10.228.92.73 qs1-nvrsk-vidova165-p10 Видова, д. 165
+10.228.83.37 qs1-nvrsk-vidova125-p2 Видова, д. 125
+10.228.83.12 qs2-nvrsk-vidova184 Видова, д. 184
+10.228.83.24 qs1-nvrsk-vidova168-p5 Видова, д. 168
+10.228.83.28 qs1-nvrsk-vidova158a-p1 Видова, д. 158/к.А
+10.228.82.57 qs1-nvrsk-alekseeva25-p2 Алексеева, д. 25
+10.228.81.37 qs1-nvrsk-volgogradskaya14-p2 Волгоградская, д. 14
+10.228.81.38 qs1-nvrsk-volgogradskaya10-p3 Волгоградская, д. 10
+10.228.91.186 es1-nvrsk-dzer187-p4 Дзержинского, д. 187
+10.228.82.114 qs1-nvrsk-dzerjinskogo164-p5 Дзержинского, д. 164
+10.228.82.154 qs1-nvrsk-dzerjinskogo140-p1 Дзержинского, д. 140
+10.228.83.90 qs1-nvrsk-gajdara27-p5 Гайдара, д. 27
+10.228.82.137 qs1-nvrsk-desantnikov25 Героев Десантников, д. 25
+10.228.82.144 qs1-nvrsk-desantnikov33a Героев Десантников, д. 33/к.А
+10.228.91.219 es1-nvrsk-desant83-p1 Героев Десантников, д. 83
+10.228.82.112 qs1-nvrsk-desantnikov11-p2 Героев Десантников, д. 11
+10.228.92.82 qs1-nvrsk-vidova157-p10 Видова, д. 157
+10.228.92.88 qs1-nvrsk-vidova153 Видова, д. 153
+10.228.82.110 qs1-nvrsk-lenina83-p5 Ленина, д. 83
+10.228.82.94 qs1-nvrsk-lenina75-p2 Ленина, д. 75
+10.228.82.89 qs1-nvrsk-lenina51-p3 Ленина, д. 51
+10.228.80.154 qs1-nvrsk-lenina4-p4 Ленина, д. 4
+10.228.82.13 qs1-nvrsk-alekseeva22-p3 Алексеева, д. 22
+10.228.82.150 qs1-nvrsk-dzerjinskogo172-p2 Дзержинского, д. 172
+10.228.82.9 qs1-nvrsk-dzerjinskogo156 Дзержинского, д. 156
+10.228.83.153 qs1-nvrsk-rubina1-p3 Рубина, д. 1
+10.228.80.145 qs1-nvrsk-nabereg51-p2 Серебрякова, д. 51
+10.228.80.211 qs1-nvrsk-engels71-p4 Энгельса, д. 71
+10.228.80.36 qs1-nvrsk-hvorostyanskogo15-p4 Хворостянского, д. 15
+10.228.80.205 qs1-nvrsk-engels82-p2 Энгельса, д. 82
+10.228.80.37 qs1-nvrsk-hvorostyanskogo15-p5 Хворостянского, д. 15
+10.228.83.172 es2-nvrsk-ledneva5 Леднева, д. 5
+10.228.82.45 qs1-nvrsk-gluhova6-p3 Глухова, д. 6
+10.228.83.22 qs1-nvrsk-gordeeva4 Гордеева, д. 4
+10.228.82.23 qs1-nvrsk-alekseeva54-p2 Алексеева, д. 54
+10.228.83.44 qs1-nvrsk-anapskoe62-p2 Анапское, д. 62
+10.228.83.104 d1-nvrsk-anapskoe17-p2 Анапское, д. 17
+10.228.83.97 qs1-nvrsk-anapskoe12-p2 Анапское, д. 12
+10.228.83.27 d1-nvrsk-anapskoe1-p2 Анапское, д. 1/3
+10.228.83.75 qs1-nvrsk-anapskoe37 Анапское, д. 37
+10.228.80.99 qs1-nvrsk-verbovaya3-p1 Вербовая, д. 3
+10.228.84.21 qs1-nvrsk-vidova81a-p2 Видова, д. 81/к.А
+10.228.92.68 qs1-nvrsk-vidova171a Видова, д. 171/к.А
+10.228.92.77 qs1-nvrsk-vidova167-p12 Видова, д. 167
+10.228.83.9 qs1-nvrsk-vidova178a Видова, д. 178/к.А
+10.228.83.14 qs1-nvrsk-vidova182 Видова, д. 182
+10.228.82.171 qs1-nvrsk-vidova116-p2 Видова, д. 116
+10.228.81.62 qs1-nvrsk-volgogradskaya52-p2 Волгоградская, д. 52
+10.228.81.49 qs1-nvrsk-volgogradskaya18-p2 Волгоградская, д. 18
+10.228.83.88 qs1-nvrsk-gajdara25-p2 Гайдара, д. 25
+10.228.82.155 qs1-nvrsk-desantnikov39a-p5 Героев Десантников, д. 39/к.А
+10.228.82.103 qs1-nvrsk-desantnikov5 Героев Десантников, д. 5
+10.228.91.202 es1-nvrsk-desant53-p2 Героев Десантников, д. 53
+10.228.81.88 qs1-nvrsk-desantnikov36-p3 Героев Десантников, д. 36
+10.228.81.87 qs1-nvrsk-desantnikov32-p3 Героев Десантников, д. 32
+10.228.81.63 qs1-nvrsk-desantnikov12-p2 Героев Десантников, д. 12
+10.228.81.53 qs1-nvrsk-desantnikov10-p3 Героев Десантников, д. 10
+10.228.91.212 es1-nvrsk-desant73-p5 Героев Десантников, д. 73
+10.228.91.210 es1-nvrsk-desant71-p2 Героев Десантников, д. 71
+10.228.82.146 qs1-nvrsk-dzerjinskogo160-p2 Дзержинского, д. 160
+10.228.83.151 qs1-nvrsk-gubernskogo4-p3 Губернского, д. 4
+10.228.80.148 qs1-nvrsk-lenina16-p2 Ленина, д. 16
+10.228.82.95 qs1-nvrsk-lenina77-p2 Ленина, д. 77
+10.228.82.78 qs1-nvrsk-lenina57-p5 Ленина, д. 57
+10.228.82.143 qs1-nvrsk-lenina47a Ленина, д. 47/к.А
+10.228.80.196 qs1-nvrsk-lenina38-p2 Ленина, д. 38
+10.228.82.81 qs1-nvrsk-lenina35-p3 Ленина, д. 35
+10.228.82.37 qs1-nvrsk-lenina27 Ленина, д. 27
+10.228.80.160 qs1-nvrsk-lenina2-p2 Ленина, д. 2
+10.228.81.15 qs1-nvrsk-malozemelskaya10 Малоземельская, д. 10
+10.228.81.78 qs1-nvrsk-malozemelskaya1-p1 Малоземельская, д. 1
+10.228.80.91 qs1-nvrsk-molodezh18-p2 Молодежная, д. 18
+10.228.80.163 qs1-nvrsk-nabereg41a-p2 Серебрякова, д. 41/к.А
+10.228.80.182 qs1-nvrsk-nabereg67-p2 Серебрякова, д. 67
+10.228.80.70 qs1-nvrsk-pionerskaya21b-p1 Пионерская, д. 21/к.Б
+10.228.83.155 qs1-nvrsk-sovetov60-p2 Советов, д. 60
+10.228.80.34 qs1-nvrsk-hvorostyanskogo15-p2 Хворостянского, д. 15
+10.228.80.219 qs1-nvrsk-cedrika20-p2 Цедрика, д. 20
+10.228.80.104 qs1-nvrsk-dzerjinskogo217-p5 Дзержинского, д. 217
+10.228.81.58 qs1-nvrsk-dzerjinskogo209-p4 Дзержинского, д. 209
+10.228.82.147 qs1-nvrsk-dzerjinskogo158-p3 Дзержинского, д. 158
+10.228.82.11 qs1-nvrsk-dzerjinskogo152 Дзержинского, д. 152
+10.228.82.59 qs1-nvrsk-dzerjinskogo126-p2 Дзержинского, д. 126
+10.228.83.58 qs1-nvrsk-dneprov11-p2 Днепровский, д. 11
+10.228.80.208 qs1-nvrsk-isaeva13-p2 Исаева, д. 13
+10.228.82.68 qs1-nvrsk-karamzina27-p1 Карамзина, д. 27
+10.228.82.56 qs1-nvrsk-karamzina21-p2 Карамзина, д. 21
+10.228.82.14 qs1-nvrsk-karamzina51a Карамзина, д. 51/к.А
+10.228.83.164 qs1-nvrsk-marksa37-p3 Карла Маркса, д. 37
+10.228.91.178 es1-nvrsk-kunikova64-p5 Куникова, д. 64
+10.228.81.43 qs1-nvrsk-kunikova92b-p1 Куникова, д. 92/к.Б
+10.228.82.6 qs1-nvrsk-kunikova19-p3 Куникова, д. 19
+10.228.83.114 qs1-nvrsk-kutuzovskaya15-p2 Кутузовская, д. 15
+10.228.82.105 qs1-nvrsk-lenina91-p3 Ленина, д. 91
+10.228.82.102 qs1-nvrsk-lenina87-p2 Ленина, д. 87
+10.228.83.5 qs1-nvrsk-vidova174 Видова, д. 174
+10.228.80.214 qs1-nvrsk-engels66-p5 Энгельса, д. 66
+10.228.83.140 qs1-nvrsk-cedrika1 Цедрика, д. 1
+10.228.83.51 qs1-nvrsk-vidova119-p5 Видова, д. 119
+10.228.83.125 qs1-nvrsk-vidova83-p2 Видова, д. 83
+10.228.92.89 qs1-nvrsk-vidova167-p4 Видова, д. 167
+10.228.83.50 qs1-nvrsk-vidova119-p2 Видова, д. 119
+10.228.83.6 qs1-nvrsk-vidova176-p2 Видова, д. 176
+10.228.83.107 qs1-nvrsk-anapskoe10-p2 Анапское, д. 10
+10.228.83.99 qs1-nvrsk-anapskoe6-p2 Анапское, д. 6
+10.228.91.199 es1-nvrsk-desant47-p1 Героев Десантников, д. 47
+10.228.81.71 qs1-nvrsk-desantnikov34-p2 Героев Десантников, д. 34
+10.228.83.71 qs1-nvrsk-anapskoe25 Анапское, д. 25
+10.228.83.91 qs1-nvrsk-gajdara33-p3 Гайдара, д. 33
+10.228.82.107 qs1-nvrsk-desantnikov7-p2 Героев Десантников, д. 7
+10.228.82.82 qs1-nvrsk-lenina33-p1 Ленина, д. 33
+10.228.83.32 qs1-nvrsk-dnestr4-p2 Днестровская, д. 4
+10.228.83.136 qs1-nvrsk-marksa27-p2 Карла Маркса, д. 27
+10.228.83.160 qs1-nvrsk-sovetov68-p3 Советов, д. 68
+10.228.80.201 qs1-nvrsk-engels74-p2 Энгельса, д. 74
+10.228.82.40 qs1-nvrsk-karamzina2-p2 Карамзина, д. 2/8
+10.228.80.106 d1-nvrsk-dzerjinskogo225-p1 Дзержинского, д. 225
+10.228.80.47 qs1-nvrsk-dzerjinskogo224-p1 Дзержинского, д. 224
+10.228.92.84 qs1-nvrsk-vidova157-p5 Видова, д. 157
+10.228.91.174 es1-nvrsk-kunikova60a-p1 Куникова, д. 60/к.А
+10.228.91.164 es1-nvrsk-kunikova50-p3 Куникова, д. 50
+10.228.91.136 d1-nvrsk-kunikova42-p2 Куникова, д. 42
+10.228.80.194 qs1-nvrsk-nabereg61-p3 Серебрякова, д. 61
+10.228.80.79 qs1-nvrsk-pionerskaya12 Пионерская, д. 12
+10.228.80.151 qs1-nvrsk-suvorov2b-p2 Суворовская, д. 2/к.Б
+10.228.84.20 qs1-nvrsk-moskowskaya10-p3 Московская, д. 10
+10.228.80.169 qs1-nvrsk-sverdlova16b-p3 Свердлова, д. 16/к.Б
+10.228.83.171 d1-nvrsk-sovetov72 Советов, д. 72
+10.228.80.209 qs1-nvrsk-shevchenko55-p3 Шевченко, д. 55
+10.228.91.211 es1-nvrsk-desant73-p2 Героев Десантников, д. 73
+10.228.81.54 qs1-nvrsk-dzerjinskogo205b Дзержинского, д. 205/к.Б
+10.228.91.196 es1-nvrsk-dzer205-p1 Дзержинского, д. 205
+10.228.91.191 es1-nvrsk-dzer197-p4 Дзержинского, д. 197
+10.228.83.92 qs1-nvrsk-gajdara35-p3 Гайдара, д. 35
+10.228.91.204 es1-nvrsk-desant61a-p2 Героев Десантников, д. 61/к.А
+10.228.82.138 qs1-nvrsk-desantnikov19-p3 Героев Десантников, д. 19
+10.228.82.96 qs1-nvrsk-lenina77-p5 Ленина, д. 77
+10.228.82.87 qs1-nvrsk-lenina53-p2 Ленина, д. 53
+10.228.82.106 qs1-nvrsk-lenina91a-p2 Ленина, д. 91/к.А
+10.228.82.85 qs1-nvrsk-lenina29-p5 Ленина, д. 29
+10.228.80.150 qs1-nvrsk-lenina14-p2 Ленина, д. 14
+10.228.83.152 qs1-nvrsk-mira19-p2 Мира, д. 19
+10.228.84.4 qs3-nvrsk-dneprov7-p2 Днепровский, д. 7
+10.228.81.17 qs1-nvrsk-zolotarevskogo10-p2 Золотаревского, д. 10
+10.228.82.66 qs1-nvrsk-karamzina23-p1 Карамзина, д. 23
+10.228.83.100 qs1-nvrsk-anapskoe6-p5 Анапское, д. 6
+10.228.83.35 qs1-nvrsk-vidova166-p1 Видова, д. 166
+10.228.91.213 es1-nvrsk-desant59-p1 Героев Десантников, д. 59
+10.228.91.215 es1-nvrsk-desant75 Героев Десантников, д. 75
+10.228.83.4 qs1-nvrsk-vidova172-p3 Видова, д. 172
+10.228.82.44 qs1-nvrsk-lenina11-p5 Ленина, д. 11
+10.228.80.165 qs1-nvrsk-nabereg39-p2 Серебрякова, д. 39
+10.228.80.168 qs1-nvrsk-sverdlova16a-p3 Свердлова, д. 16/к.А
+10.228.83.159 qs1-nvrsk-sovetov66-p5 Советов, д. 66
+10.228.80.220 d1-nvrsk-tolstogo4 Толстого, д. 4
+10.228.81.89 qs1-nvrsk-myshakskoe61 Мысхакское, д. 61
+10.228.82.62 qs1-nvrsk-dzerjinskogo134-p1 Дзержинского, д. 134
+10.228.81.65 qs1-nvrsk-desantnikov14-p3 Героев Десантников, д. 14
+10.228.81.79 qs1-nvrsk-malozemelskaya1-p3 Малоземельская, д. 1
+10.228.91.163 es1-nvrsk-kunikova48 Куникова, д. 48
+10.228.82.168 qs1-nvrsk-anapskoe54a-p2 Анапское, д. 54/к.А
+10.228.81.13 qs1-nvrsk-malozemelskaya6 Малоземельская, д. 6
+10.228.81.67 qs1-nvrsk-desantnikov18-p3 Героев Десантников, д. 18
+10.228.81.85 qs1-nvrsk-volgogradskaya44-p1 Волгоградская, д. 44
+10.228.83.61 qs1-nvrsk-dneprov3-p5 Днепровский, д. 3
+10.228.82.16 qs1-nvrsk-karamzina49 Карамзина, д. 49/14
+10.228.80.177 qs1-nvrsk-suvorov39-p3 Суворовская, д. 39/49
+10.228.92.64 qs1-nvrsk-anapskoe108-p9 Анапское, д. 108
+10.228.91.201 es1-nvrsk-desant51-p3 Героев Десантников, д. 51
+10.228.81.84 qs1-nvrsk-volgogradskaya44-p3 Волгоградская, д. 44
+10.228.82.33 qs1-nvrsk-rubaho10 СнайРубахо, д. 10
+10.228.83.30 qs1-nvrsk-vidova158-p1 Видова, д. 158
+10.228.81.14 d1-nvrsk-malozemelskaya8 Малоземельская, д. 8
+10.228.82.46 qs1-nvrsk-gluhova6-p8 Глухова, д. 6
+10.228.83.168 qs1-nvrsk-ledneva2-p2 Леднева, д. 2
+10.228.83.122 qs1-nvrsk-vidova56-p4 Видова, д. 56
+10.228.82.136 qs1-nvrsk-desantnikov21-p2 Героев Десантников, д. 21
+10.228.81.48 qs1-nvrsk-volgogradskaya16-p2 Волгоградская, д. 16
+10.228.83.11 qs1-nvrsk-vidova184 Видова, д. 184
+10.228.82.30 qs1-nvrsk-karamzina53-p3 Карамзина, д. 53
+10.228.80.198 qs1-nvrsk-lenina42-p3 Ленина, д. 42
+10.228.83.162 qs1-nvrsk-sovetov74-p2 Советов, д. 74
+10.228.80.218 qs1-nvrsk-tolstogo11-p3 Толстого, д. 11
+10.228.80.210 qs1-nvrsk-engels72 Энгельса, д. 72
+10.228.82.69 qs1-nvrsk-karamzina29 Карамзина, д. 29
+10.228.80.188 qs1-nvrsk-suvorov19-p4 Суворовская, д. 19
+10.228.92.66 qs1-nvrsk-vidova177-p1 Видова, д. 177
+10.228.83.20 qs1-nvrsk-vidova188-p1 Видова, д. 188
+10.228.81.51 qs1-nvrsk-desantnikov24-p3 Героев Десантников, д. 24
+10.228.82.10 qs1-nvrsk-dzerjinskogo154 Дзержинского, д. 154
+10.228.91.194 es1-nvrsk-dzer199a Дзержинского, д. 199/к.А
+10.228.83.93 qs1-nvrsk-gajdara29-p2 Гайдара, д. 29
+10.228.82.97 qs1-nvrsk-lenina79 Ленина, д. 79
+10.228.82.123 qs1-nvrsk-lenina47-p5 Ленина, д. 47
+10.228.82.91 qs1-nvrsk-lenina69-p2 Ленина, д. 69
+10.228.80.88 qs1-nvrsk-molodezh12 Молодежная, д. 12
+10.228.83.60 qs1-nvrsk-dneprov3-p2 Днепровский, д. 3
+10.228.82.4 qs1-nvrsk-karamzina57-p1 Карамзина, д. 57
+10.228.83.138 qs1-nvrsk-gubernskogo37-p2 Губернского, д. 37
+10.228.81.34 qs1-nvrsk-volgogradskaya8-p1 Волгоградская, д. 8
+10.228.81.83 qs1-nvrsk-volgogradskaya42-p2 Волгоградская, д. 42
+10.228.82.165 qs1-nvrsk-kozlova80-p2 Козлова, д. 80
+10.228.82.26 qs1-nvrsk-kunikova9-p4 Куникова, д. 9
+10.228.82.119 qs1-nvrsk-lenina39-p2 Ленина, д. 39
+10.228.80.9 qs1-nvrsk-pionerskaya37-p2 Пионерская, д. 37
+10.228.80.162 qs1-nvrsk-suvorov2a-p2 Суворовская, д. 2/к.А
+10.228.80.82 qs1-nvrsk-molodezh4-p1 Молодежная, д. 4
+10.228.80.85 qs1-nvrsk-molodezh8-p2 Молодежная, д. 8
+10.228.82.175 qs1-nvrsk-moskowskaya7-p1 Московская, д. 7
+10.228.81.39 qs1-nvrsk-myshakskoe56-p3 Мысхакское, д. 56
+10.228.80.190 qs1-nvrsk-nabereg55-p2 Серебрякова, д. 55
+10.228.81.44 qs1-nvrsk-kunikova92a-p1 Куникова, д. 92/к.А
+10.228.80.76 qs1-nvrsk-hvorostyanskogo3-p3 Хворостянского, д. 3
+10.228.82.172 qs1-nvrsk-ciolkovskogo7-p2 Циолковского, д. 7
+10.228.80.30 qs1-nvrsk-dzerjinskogo210-p2 Дзержинского, д. 210
+10.228.80.185 qs1-nvrsk-lenina20-p2 Ленина, д. 20
+10.228.82.18 qs1-nvrsk-karamzina45 Карамзина, д. 45
+10.228.80.191 qs1-nvrsk-nabereg53a Серебрякова, д. 53/к.А
+10.228.92.109 es1-nvrsk-tobolsk7a-p1 Тобольская, д. 7/к.А
+10.228.86.37 sm1-nvrsk-desant65-1-p3 Героев Десантников, д. 65/к./1
+10.228.86.39 sm1-nvrsk-kutuzovskaya117a Кутузовская, д. 117
+10.228.86.38 sm1-nvrsk-ujnaya19 Южная, д. 19
+10.228.86.36 sm1-nvrsk-lenina103-p2 Ленина, д. 103
+10.228.86.41 sm1-nvrsk-anapskoe41j-p4 Анапское, д. 41/к.Ж
+10.228.81.210 es1-nvrsk-pionerskaya43 Пионерская, д. 43
+10.228.92.117 es1-nvrsk-ahedzhaka4-p2 Мурата Ахеджака, д. 4
+10.228.82.188 es1-nvrsk-anapskoe53-1-p1 Анапское, д. 53/стр. 1
+10.228.82.189 es1-nvrsk-anapskoe53-1-p2 Анапское, д. 53/стр. 1
+10.228.82.190 es1-nvrsk-anapskoe53-2-p1 Анапское, д. 53/стр. 2
+10.228.82.191 es1-nvrsk-anapskoe53-2-p2 Анапское, д. 53/стр. 2
+10.228.84.132 es1-nvrsk-anapskoe41i-p1 Анапское, д. 41/к.И
+10.228.84.134 es1-nvrsk-anapskoe41i-p3 Анапское, д. 41/к.И
+10.228.84.136 es1-nvrsk-anapskoe41j-p2 Анапское, д. 41/к.Ж
+10.228.84.137 es1-nvrsk-anapskoe41j-p3 Анапское, д. 41/к.Ж
+10.228.84.138 es1-nvrsk-anapskoe41j-p4 Анапское, д. 41/к.Ж
+10.228.84.139 es1-nvrsk-anapskoe41j-p5 Анапское, д. 41/к.Ж
+10.228.84.140 es1-nvrsk-anapskoe41l-p1 Анапское, д. 41/к.Л
+10.228.84.141 es1-nvrsk-anapskoe41l-p2 Анапское, д. 41/к.Л
+10.228.84.143 es1-nvrsk-anapskoe41l-p4 Анапское, д. 41/к.Л
+10.228.84.144 es1-nvrsk-anapskoe41g-p1 Анапское, д. 41/к.Г
+10.228.84.146 es1-nvrsk-anapskoe41g-p3 Анапское, д. 41/к.Г
+10.228.84.147 es1-nvrsk-anapskoe41e-p1 Анапское, д. 41/к.Е
+10.228.84.149 es1-nvrsk-anapskoe41e-p3 Анапское, д. 41/к.Е
+10.228.84.150 es1-nvrsk-anapskoe41e-p4 Анапское, д. 41/к.Е
+10.228.84.151 es1-nvrsk-anapskoe41e-p5 Анапское, д. 41/к.Е
+10.228.84.152 es1-nvrsk-anapskoe41e-p6 Анапское, д. 41/к.Е
+10.228.84.10 d1-nvrsk-vidova180-p2 Видова, д. 180
+10.228.84.13 d1-nvrsk-vidova186-p2 Видова, д. 186
+10.228.84.5 d1-nvrsk-vidova188-p1 Видова, д. 188
+10.228.83.7 qs1-nvrsk-vidova176a Видова, д. 176/к.А
+10.228.83.49 qs1-nvrsk-vidova121-p3 Видова, д. 121
+10.228.84.135 es1-nvrsk-anapskoe41j-p1 Анапское, д. 41/к.Ж
+10.228.84.145 es1-nvrsk-anapskoe41g-p2 Анапское, д. 41/к.Г
+10.228.82.156 qs1-nvrsk-desantnikov39a-p2 Героев Десантников, д. 39/к.А
+10.228.80.227 qs2-nvrsk-lenina44-p3 Ленина, д. 44
+10.228.80.229 d1-nvrsk-lenina42-p3 Ленина, д. 42
+10.228.82.183 d1-nvrsk-lenina13-p2 Ленина, д. 13
+10.228.82.192 d1-nvrsk-lenina25 Ленина, д. 25
+10.228.81.183 es1-nvrsk-lenina103-p2 Ленина, д. 103
+10.228.81.184 es1-nvrsk-lenina103-p3 Ленина, д. 103
+10.228.81.185 es1-nvrsk-lenina103-p4 Ленина, д. 103
+10.228.81.186 es1-nvrsk-lenina103-p5 Ленина, д. 103
+10.228.81.187 es1-nvrsk-lenina107-p1 Ленина, д. 107
+10.228.81.188 es1-nvrsk-lenina107-p2 Ленина, д. 107
+10.228.81.189 es1-nvrsk-lenina107-p3 Ленина, д. 107
+10.228.81.190 es1-nvrsk-lenina107-p4 Ленина, д. 107
+10.228.81.191 es1-nvrsk-lenina107-p5 Ленина, д. 107
+10.228.81.193 es1-nvrsk-lenina101-p2 Ленина, д. 101
+10.228.81.194 es1-nvrsk-lenina105-p1 Ленина, д. 105
+10.228.81.195 es1-nvrsk-lenina105-p2 Ленина, д. 105
+10.228.81.196 es1-nvrsk-lenina99-p1 Ленина, д. 99
+10.228.81.197 es1-nvrsk-lenina99-p2 Ленина, д. 99
+10.228.81.198 es1-nvrsk-lenina99-p3 Ленина, д. 99
+10.228.81.200 es1-nvrsk-lenina99-p5 Ленина, д. 99
+10.228.81.217 es1-nvrsk-lenina109 Ленина, д. 109
+10.228.80.51 qs1-nvrsk-dzerjinskogo224-p5 Дзержинского, д. 224
+10.228.92.116 es1-nvrsk-dzer232 Дзержинского, д. 232
+10.228.92.118 es1-nvrsk-dzer234-p2 Дзержинского, д. 234
+10.228.91.175 es1-nvrsk-kunikova62-p2 Куникова, д. 62
+10.228.80.225 d1-nvrsk-nabereg69-p7 Серебрякова, д. 69
+10.228.83.144 qs1-nvrsk-nabereg23-p2 Серебрякова, д. 23
+10.228.83.146 qs1-nvrsk-nabereg19-p3 Серебрякова, д. 19
+10.228.84.68 d1-nvrsk-kutuzovskaya115 Кутузовская, д. 115
+10.228.80.223 d1-nvrsk-sverdlova16a-p3 Свердлова, д. 16/к.А
+10.228.83.135 qs1-nvrsk-sovetov58 Советов, д. 58
+10.228.83.174 d1-nvrsk-sovetov58 Советов, д. 58
+10.228.83.165 qs1-nvrsk-sovetov34a-p1 Советов, д. 34/к.А
+10.228.92.110 es1-nvrsk-tobolsk7a-p2 Тобольская, д. 7/к.А
+10.228.92.111 es1-nvrsk-tobolsk7a-p3 Тобольская, д. 7/к.А
+10.228.92.112 es1-nvrsk-tobolsk7a-p4 Тобольская, д. 7/к.А
+10.228.84.22 qs2-nvrsk-dneprov7-p2 Днепровский, д. 7
+10.228.82.167 qs1-nvrsk-industrialnaya6a-p3 Индустриальная, д. 6/к.А
+10.228.83.40 qs1-nvrsk-lunacharskogo2-p2 Луначарского, д. 2
+10.228.83.41 qs1-nvrsk-lunacharskogo2-p5 Луначарского, д. 2
+10.228.83.150 d1-nvrsk-mira15-p1 Мира, д. 15
+10.228.83.175 qs1-nvrsk-mira25-p2 Мира, д. 25
+10.228.82.15 qs1-nvrsk-rubaho16-p2 СнайРубахо, д. 16
+10.228.80.107 qs1-nvrsk-ujnaya1-p2 Южная, д. 1
+10.228.84.25 es1-nvrsk-vidova98-1 Видова, д. 98/1
+10.228.80.228 d1-nvrsk-lezhenina90 Леженина, д. 90
+10.228.80.10 qs1-nvrsk-ujnaya14-p1 Южная, д. 14
+10.228.80.108 qs1-nvrsk-ujnaya1-p3 Южная, д. 1
+10.228.80.109 qs1-nvrsk-ujnaya1-p4 Южная, д. 1
+10.228.80.13 qs1-nvrsk-ujnaya11-p1 Южная, д. 11
+10.228.80.14 qs1-nvrsk-ujnaya17-p1 Южная, д. 17
+10.228.80.17 qs1-nvrsk-ujnaya6-p1 Южная, д. 6
+10.228.80.18 qs1-nvrsk-ujnaya5-p1 Южная, д. 5
+10.228.80.4 qs1-nvrsk-ujnaya10-p5 Южная, д. 10
+10.228.80.5 qs1-nvrsk-ujnaya10-p2 Южная, д. 10
+10.228.92.120 es1-nvrsk-ujnaya7-p3 Южная, д. 7
+10.228.80.16 qs1-nvrsk-ujnaya6-p4 Южная, д. 6
+10.228.92.119 es1-nvrsk-ujnaya7-p5 Южная, д. 7
+10.228.81.207 es1-nvrsk-ujnaya15-p2 Южная, д. 15
+10.228.83.176 qs1-nvrsk-novoresp1-p2 Новороссийской Республики, д. 1
+10.228.83.178 qs1-nvrsk-novoresp3-p2 Новороссийской Республики, д. 3
+10.228.83.179 qs1-nvrsk-michurin2-p3 Мичуринский, д. 2
+10.228.83.180 qs1-nvrsk-michurin4-p2 Мичуринский, д. 4
+10.228.84.69 es1-nvrsk-krasnoznamen2-p2 Краснознаменный, д. 2
+10.228.84.70 es1-nvrsk-krasnoznamen2a-p2 Краснознаменный, д. 2/к.А
+10.228.82.160 qs1-nvrsk-lenina91a-p3 Ленина, д. 91/к.А
+10.228.84.14 d1-nvrsk-tobolsk7 Тобольская, д. 7
+10.228.84.11 d1-nvrsk-gajdara25-p2 Гайдара, д. 25
+10.228.81.221 d1-nvrsk-ujnaya10a Южная, д. 10/к.А
+10.228.84.15 d1-nvrsk-kutuzovskaya15-p2 Кутузовская, д. 15
+192.168.93.34 comm1-nvrsk-gstv Козлова, д. 62
+192.168.93.36 comm3-nvrsk-gstv Козлова, д. 62
+10.228.80.233 d1-nvrsk-engels78-p2 Энгельса, д. 78
+10.228.80.231 d1-nvrsk-isaeva6-p5 Исаева, д. 6
+10.228.80.234 d1-nvrsk-isaeva6-p2 Исаева, д. 6
+10.228.83.182 d1-nvrsk-skoblikova3-p2 Скобликова, д. 3
+10.228.80.226 d1-nvrsk-sverdlova16-p2 Свердлова, д. 16
+10.228.83.181 d1-nvrsk-griboedova2-p3 Грибоедова, д. 2
+10.228.84.12 d1-nvrsk-anapskoe19-p6 Анапское, д. 19
+10.228.84.18 d1-nvrsk-anapskoe29-p2 Анапское, д. 29
+10.228.84.17 d1-nvrsk-anapskoe37a-p2 Анапское, д. 37/к.А
+10.228.83.133 qs2-nvrsk-cedrika4 Цедрика, д. 4
+10.228.81.219 d1-nvrsk-hvorostyanskogo11-p2 Хворостянского, д. 11
+10.228.82.193 d1-nvrsk-karamzina51 Карамзина, д. 51
+10.228.81.223 d1-nvrsk-volgogradskaya38-p2 Волгоградская, д. 38
+10.228.80.155 qs2-nvrsk-suvorov2b-p2 Суворовская, д. 2/к.Б
+10.228.83.199 d1-nvrsk-nabereg5-p2 Серебрякова, д. 5
+10.228.83.187 d1-nvrsk-mira12-p2 Мира, д. 12
+10.228.83.185 d1-nvrsk-mira10-p2 Мира, д. 10
+10.228.83.186 d1-nvrsk-mira10a-p1 Мира, д. 10/к.А
+10.228.83.188 d1-nvrsk-mira14-p3 Мира, д. 14
+10.228.83.190 d1-nvrsk-mira29-p3 Мира, д. 29
+10.228.83.196 d1-nvrsk-mira20-p3 Мира, д. 20/22
+10.228.83.191 d1-nvrsk-mira37-p2 Мира, д. 37
+10.228.83.192 d1-nvrsk-mira37-p5 Мира, д. 37
+10.228.83.195 d1-nvrsk-mira49-p2 Мира, д. 49
+10.228.83.193 d1-nvrsk-mira45-p2 Мира, д. 45
+10.228.83.197 d1-nvrsk-nabereg1-p2 Серебрякова, д. 1
+10.228.83.198 d1-nvrsk-nabereg3-p2 Серебрякова, д. 3
+10.228.83.200 d1-nvrsk-novoresp2a-p1 Новороссийской Республики, д. 2/к.А
+10.228.83.201 d1-nvrsk-novoresp8-p3 Новороссийской Республики, д. 8
+10.228.83.134 d1-nvrsk-revol6-p3 Революции 1905 года, д. 6
+10.228.83.183 d1-nvrsk-gubernskogo22-p3 Губернского, д. 22
+10.228.83.184 d1-nvrsk-gubernskogo32-p2 Губернского, д. 32
+10.228.84.27 d1-nvrsk-gajdara31-p3 Гайдара, д. 31
+10.228.84.28 d1-nvrsk-vidova65-p2 Видова, д. 65
+10.228.84.29 d1-nvrsk-moskowskaya4-p2 Московская, д. 4
+10.228.84.30 d1-nvrsk-moskowskaya4-p5 Московская, д. 4
+10.228.83.228 d1-nvrsk-gubernskogo52-p3 Губернского, д. 52
+10.228.80.224 d1-nvrsk-lenina40-p3 Ленина, д. 40
+10.228.80.156 qs2-nvrsk-tolstogo11-p3 Толстого, д. 11
+10.228.83.202 d1-nvrsk-sovetov22-p2 Советов, д. 22
+10.228.83.203 d1-nvrsk-sovetov22-p5 Советов, д. 22
+10.228.83.204 d1-nvrsk-sovetov22-p7 Советов, д. 22
+10.228.83.205 d1-nvrsk-sovetov24-p2 Советов, д. 24
+10.228.83.206 d1-nvrsk-sovetov26-p2 Советов, д. 26
+10.228.83.207 d1-nvrsk-sovetov26-p5 Советов, д. 26
+10.228.92.59 qs2-nvrsk-vidova169-p8 Видова, д. 169
+10.228.83.210 d1-nvrsk-sovetov10-p2 Советов, д. 10
+10.228.83.211 d1-nvrsk-sovetov12-p2 Советов, д. 12
+10.228.83.212 d1-nvrsk-sovetov16-p3 Советов, д. 16
+10.228.83.216 d1-nvrsk-sovetov7-p2 Советов, д. 7
+10.228.83.217 d1-nvrsk-sovetov11-p2 Советов, д. 11
+10.228.83.218 d1-nvrsk-sovetov13-p2 Советов, д. 13
+10.228.83.219 d1-nvrsk-sovetov13-p5 Советов, д. 13
+10.228.83.220 d1-nvrsk-sovetov21-p2 Советов, д. 21
+10.228.83.221 d1-nvrsk-sovetov23-p2 Советов, д. 23
+10.228.83.223 d1-nvrsk-biruzova2-p2 Бирюзова, д. 2
+10.228.83.227 d1-nvrsk-svobody9-p2 Свободы, д. 9/11
+10.228.83.225 d1-nvrsk-kommunist4-p2 Коммунистическая, д. 4
+10.228.83.226 d1-nvrsk-kommunist4-p5 Коммунистическая, д. 4
+10.228.83.208 d1-nvrsk-sovetov6-p2 Советов, д. 2/6
+10.228.83.209 d1-nvrsk-sovetov6-p6 Советов, д. 2/6
+10.228.83.222 d1-nvrsk-rubina4-p2 Рубина, д. 4
+10.228.92.17 d1-nvrsk-vidova153-1-p1 Видова, д. 153/к.1
+10.228.92.18 d1-nvrsk-vidova153-1-p2 Видова, д. 153/к.1
+10.228.92.19 d1-nvrsk-vidova153-1-p3 Видова, д. 153/к.1
+10.228.92.20 d1-nvrsk-vidova153-1-p4 Видова, д. 153/к.1
+10.228.92.21 d1-nvrsk-vidova153-2-p1 Видова, д. 153/к.2
+10.228.92.22 d1-nvrsk-vidova153-2-p2 Видова, д. 153/к.2
+10.228.92.23 d1-nvrsk-vidova153-2-p3 Видова, д. 153/к.2
+10.228.92.24 d1-nvrsk-vidova153-2-p4 Видова, д. 153/к.2
+10.228.92.28 d1-nvrsk-ujnaya9-p4 Южная, д. 9
+10.228.92.29 d1-nvrsk-ujnaya9-p5 Южная, д. 9
+10.228.81.231 d1-nvrsk-pionerskaya45 Пионерская, д. 45
+10.228.92.36 d1-nvrsk-ujnaya23 Южная, д. 23
+10.228.92.31 d1-nvrsk-ujnaya21-p1 Южная, д. 21
+10.228.92.32 d1-nvrsk-ujnaya21-p2 Южная, д. 21
+10.228.92.33 d1-nvrsk-ujnaya21-p3 Южная, д. 21
+10.228.92.34 d1-nvrsk-ujnaya21-p4 Южная, д. 21
+10.228.92.35 d1-nvrsk-ujnaya21-p5 Южная, д. 21
+10.228.92.9 d1-nvrsk-ahedzhaka22-p1 Мурата Ахеджака, д. 22
+10.228.92.10 d1-nvrsk-ahedzhaka22-p2 Мурата Ахеджака, д. 22
+10.228.92.11 d1-nvrsk-ahedzhaka22-p3 Мурата Ахеджака, д. 22
+10.228.92.12 d1-nvrsk-ahedzhaka22-p4 Мурата Ахеджака, д. 22
+10.228.92.13 d1-nvrsk-ahedzhaka24-p1 Мурата Ахеджака, д. 24
+10.228.92.14 d1-nvrsk-ahedzhaka24-p2 Мурата Ахеджака, д. 24
+10.228.92.15 d1-nvrsk-ahedzhaka24-p3 Мурата Ахеджака, д. 24
+10.228.92.16 d1-nvrsk-ahedzhaka24-p4 Мурата Ахеджака, д. 24
+10.228.92.39 d1-nvrsk-pupko8-p2 Бориса Пупко, д. 8
+10.228.92.40 d1-nvrsk-pupko8-p3 Бориса Пупко, д. 8
+10.228.92.4 d1-nvrsk-pupko8-p4 Бориса Пупко, д. 8
+10.228.92.5 d1-nvrsk-pupko10-p1 Бориса Пупко, д. 10
+10.228.92.7 d1-nvrsk-pupko10-p3 Бориса Пупко, д. 10
+10.228.93.10 d1-nvrsk-malozemelskaya14a-p3 Малоземельская, д. 14/к.А
+10.228.93.11 d1-nvrsk-malozemelskaya14a-p4 Малоземельская, д. 14/к.А
+10.228.81.249 d1-nvrsk-pionerskaya9-p1 Пионерская, д. 9
+10.228.81.225 qs2-nvrsk-kunikova92a-p1 Куникова, д. 92/к.А
+10.228.83.194 d1-nvrsk-mira47-p1 Мира, д. 47
+10.228.83.213 d1-nvrsk-sovetov18 Советов, д. 18
+10.228.83.214 d1-nvrsk-sovetov19 Советов, д. 19
+10.228.82.195 d1-nvrsk-lenina9a Ленина, д. 9/к.А
+10.228.82.51 qs2-nvrsk-gluhova6-p8 Глухова, д. 6
+10.228.91.138 d1-nvrsk-desant55a Героев Десантников, д. 55/к.А
+10.228.86.50 d2-nvrsk-kozlova62 Козлова, д. 62
+10.228.86.55 d3-nvrsk-kozlova62 Козлова, д. 62
+10.228.86.51 dm1-nvrsk-kunikova9-p4 Куникова, д. 9
+10.228.86.56 dm2-nvrsk-kunikova9-p4 Куникова, д. 9
+10.228.80.197 d1-nvrsk-parhomenko58-p4 Пархоменко, д. 58
+10.228.82.35 d1-nvrsk-kunikova9-p2 Куникова, д. 9
+10.228.86.47 dm1-nvrsk-suvorovskaya2b-p2 Суворовская, д. 2/к.Б
+10.228.84.157 qf1-nvrsk-anapskoe39d-p1 Анапское, д. 39/к.Д
+10.228.84.159 qf1-nvrsk-anapskoe39d-p3 Анапское, д. 39/к.Д
+10.228.84.160 qf1-nvrsk-anapskoe39d-p4 Анапское, д. 39/к.Д
+10.228.84.153 qf1-nvrsk-anapskoe41n-1-p1 Анапское, д. 41/к.Н, СТР. 1
+10.228.84.154 qf1-nvrsk-anapskoe41n-1-p2 Анапское, д. 41/к.Н, СТР. 1
+10.228.84.155 qf1-nvrsk-anapskoe41n-2-p1 Анапское, д. 41/к.Н, СТР. 2
+10.228.84.156 qf1-nvrsk-anapskoe41n-2-p2 Анапское, д. 41/к.Н, СТР. 2
+10.228.84.161 qf1-nvrsk-anapskoe41n-2-p3 Анапское, д. 41/к.Н, СТР. 2
+10.228.84.162 qf1-nvrsk-anapskoe41n-2-p4 Анапское, д. 41/к.Н, СТР. 2
+10.228.84.163 qf1-nvrsk-anapskoe41n-2-p5 Анапское, д. 41/к.Н, СТР. 2
+10.228.82.197 qf1-nvrsk-kozlova72-p1 Козлова, д. 72
+10.228.82.198 qf1-nvrsk-kozlova72-p2 Козлова, д. 72
+10.228.82.199 qf1-nvrsk-kozlova72-p3 Козлова, д. 72
+10.228.82.200 qf1-nvrsk-kozlova72-p4 Козлова, д. 72
+10.228.92.8 qf1-nvrsk-pionerskaya18 Пионерская, д. 18
+10.228.92.30 qf2-nvrsk-pionerskaya18 Пионерская, д. 18
+10.228.92.41 qf1-nvrsk-ujnaya25-p2 Южная, д. 25
+10.228.92.42 qf1-nvrsk-ujnaya25-p5 Южная, д. 25
+10.228.92.43 qf1-nvrsk-vidova212-p1 Видова, д. 212
+10.228.92.44 qf1-nvrsk-vidova212-p2 Видова, д. 212
+10.228.92.45 qf1-nvrsk-vidova214-p1 Видова, д. 214
+10.228.92.46 qf2-nvrsk-vidova214-p1 Видова, д. 214
+10.228.92.47 qf1-nvrsk-vidova214-p2 Видова, д. 214
+10.228.92.48 qf1-nvrsk-vidova214-p3 Видова, д. 214
+10.228.92.49 qf2-nvrsk-vidova214-p3 Видова, д. 214
+10.228.92.50 qf1-nvrsk-vidova220-p1 Видова, д. 220
+10.228.92.51 qf1-nvrsk-vidova220-p2 Видова, д. 220
+10.228.92.52 qf1-nvrsk-vidova220-p3 Видова, д. 220
+10.228.82.170 qs1-nvrsk-cemdolinskaja3 Цемдолинская, д. 3
+10.228.92.26 d1-nvrsk-ujnaya9-p2 Южная, д. 9
+10.228.92.27 d1-nvrsk-ujnaya9-p3 Южная, д. 9
+10.228.84.73 es1-nvrsk-krasnoznamen8-p1 Краснознаменный, д. 8
+10.228.84.74 es1-nvrsk-krasnoznamen10-p1 Краснознаменный, д. 10
+10.228.84.71 es1-nvrsk-krasnoznamen2b-p2 Краснознаменный, д. 2/к.Б
+10.228.84.72 es1-nvrsk-krasnoznamen2b-p5 Краснознаменный, д. 2/к.Б
+10.228.83.177 qs1-nvrsk-gubernskogo18-p2 Губернского, д. 18
+10.228.91.137 d1-nvrsk-dzer203 Дзержинского, д. 203
+10.228.86.54 d2-nvrsk-volgogradskaya20-p2 Волгоградская, д. 20
+10.228.86.46 dm1-nvrsk-nabereg9-mkc Серебрякова, д. 8/к.1
+10.228.80.222 qs2-nvrsk-lenina2-p2 Ленина, д. 2
+10.228.81.244 d1-nvrsk-hvorostyanskogo7-p3 Хворостянского, д. 7
+10.228.83.189 d2-nvrsk-mira10-p2 Мира, д. 10
+10.228.81.245 d1-nvrsk-ujnaya1-p4 Южная, д. 1
+10.228.81.247 d1-nvrsk-malozemelskaya3-p2 Малоземельская, д. 3
+10.228.82.196 qs2-nvrsk-alekseeva25-p2 Алексеева, д. 25
+10.228.80.75 qs2-nvrsk-hvorostyanskogo3-p3 Хворостянского, д. 3
+10.228.81.228 qs2-nvrsk-ujnaya5-p1 Южная, д. 5
+10.228.81.226 qs2-nvrsk-ujnaya10-p2 Южная, д. 10
+10.228.92.61 qs2-nvrsk-vidova169-p11 Видова, д. 169
+10.228.92.85 qs2-nvrsk-vidova157-p5 Видова, д. 157
+10.228.81.237 qs2-nvrsk-molodezh20-p2 Молодежная, д. 20
+10.228.80.24 qs2-nvrsk-ujnaya10-p5 Южная, д. 10
+10.228.82.204 qs2-nvrsk-karamzina45 Карамзина, д. 45
+10.228.82.205 qs2-nvrsk-karamzina23-p1 Карамзина, д. 23
+10.228.92.91 qs2-nvrsk-vidova173-p2 Видова, д. 173
+10.228.92.92 qs2-nvrsk-vidova173-p8 Видова, д. 173
+10.228.80.56 d1-nvrsk-ujnaya6-p1 Южная, д. 6
+10.228.92.57 d1-nvrsk-vidova169-p2 Видова, д. 169
+10.228.81.232 d1-nvrsk-volgogradskaya28-p2 Волгоградская, д. 28
+10.228.92.93 d1-nvrsk-ujnaya25-p2 Южная, д. 25
+10.228.92.95 d1-nvrsk-vidova157-p10 Видова, д. 157
+10.228.92.96 d1-nvrsk-ujnaya25-p5 Южная, д. 25
+10.228.82.207 d1-nvrsk-kunikova9-p4 Куникова, д. 9
+10.228.84.164 d1-nvrsk-anapskoe39d-p4 Анапское, д. 39/к.Д
+10.228.92.94 qs2-nvrsk-vidova165-p4 Видова, д. 165
+10.228.81.216 d1-nvrsk-volgogradskaya50-p2 Волгоградская, д. 50
+10.228.82.25 d1-nvrsk-chekhova20-p2 Чехова, д. 20
+10.228.84.165 d1-nvrsk-anapskoe39d-p1 Анапское, д. 39/к.Д
+10.228.81.233 d1-nvrsk-kunikova104 Куникова, д. 104
+10.228.80.57 d1-nvrsk-dzerjinskogo224-p2 Дзержинского, д. 224
+10.228.84.166 d1-nvrsk-anapskoe39d-p3 Анапское, д. 39/к.Д
+10.228.80.235 d1-nvrsk-engels76-p2 Энгельса, д. 76
+10.228.86.53 dm1-nvrsk-vidova167-p10 Видова, д. 167
+10.228.86.49 d2-nvrsk-desantnikov24-p1 Героев Десантников, д. 24
+10.228.86.52 d2-nvrsk-pionerskaya39-p1 Пионерская, д. 39
+10.228.82.209 es1-nvrsk-rubaho12-p2 СнайРубахо, д. 12
+10.228.82.208 d1-nvrsk-rubaho12-p2 СнайРубахо, д. 12
+10.228.82.210 d1-nvrsk-karamzina53-p2 Карамзина, д. 53
+10.228.83.73 d1-nvrsk-vidova121-p3 Видова, д. 121
+10.228.80.236 d1-nvrsk-lenina20-p2 Ленина, д. 20
+10.228.82.211 d1-nvrsk-karamzina6-p1 Карамзина, д. 6
+10.228.80.58 d1-nvrsk-ujnaya6-p4 Южная, д. 6
+10.228.80.59 d1-nvrsk-verbovaya21-p2 Вербовая, д. 21
+10.228.81.234 d2-nvrsk-pionerskaya45 Пионерская, д. 45
+10.228.80.60 d1-nvrsk-hvorostyanskogo1-p2 Хворостянского, д. 1
+10.228.82.212 d1-nvrsk-dzerjinskogo150-p2 Дзержинского, д. 150
+10.228.92.98 d2-nvrsk-ahedzhaka22-p1 Мурата Ахеджака, д. 22
+10.228.80.237 d1-nvrsk-nabereg39-p2 Серебрякова, д. 39
+10.228.92.99 d1-nvrsk-vidova157-p2 Видова, д. 157
+10.228.92.101 d1-nvrsk-vidova167-p12 Видова, д. 167
+10.228.92.102 d1-nvrsk-vidova171-p2 Видова, д. 171
+10.228.83.77 d1-nvrsk-vidova172-p3 Видова, д. 172
+10.228.81.246 d1-nvrsk-myshakskoe56-p5 Мысхакское, д. 56
+10.228.80.67 d1-nvrsk-dzerjinskogo231-p1 Дзержинского, д. 231
+10.228.80.64 d1-nvrsk-dzerjinskogo221 Дзержинского, д. 221
+10.228.92.103 d1-nvrsk-vidova167-p4 Видова, д. 167
+10.228.80.65 d1-nvrsk-dzerjinskogo221a-p1 Дзержинского, д. 221А
+10.228.80.66 d1-nvrsk-dzerjinskogo221a-p2 Дзержинского, д. 221А
+10.228.80.68 d1-nvrsk-dzerjinskogo231-p2 Дзержинского, д. 231
+10.228.80.63 d1-nvrsk-dzerjinskogo217a Дзержинского, д. 217/к.А
+10.228.92.104 d2-nvrsk-ahedzhaka24-p3 Мурата Ахеджака, д. 24
+10.228.82.213 d1-nvrsk-suvorov77-p1 Суворовская, д. 77
+10.228.82.214 d1-nvrsk-suvorov77-p2 Суворовская, д. 77
+10.228.82.215 d1-nvrsk-suvorov77-p3 Суворовская, д. 77
+10.228.82.216 d1-nvrsk-suvorov77-p4 Суворовская, д. 77
+10.228.82.217 d1-nvrsk-suvorov79-p1 Суворовская, д. 79
+10.228.82.218 d1-nvrsk-suvorov79-p2 Суворовская, д. 79
+10.228.82.219 d1-nvrsk-suvorov79-p3 Суворовская, д. 79
+10.228.82.220 d1-nvrsk-suvorov79-p4 Суворовская, д. 79
+10.228.81.7 d1-nvrsk-volgogradskaya40-p2 Волгоградская, д. 40
+10.228.80.116 d1-nvrsk-pionerskaya25-p2 Пионерская, д. 25
+10.228.91.134 d1-nvrsk-malozem9-p4 Малоземельская, д. 9
+10.228.83.86 d1-nvrsk-dnestr2-p2 Днестровская, д. 2
+10.228.80.115 d1-nvrsk-dzerjinskogo228 Дзержинского, д. 228
+10.228.80.239 d1-nvrsk-engels74-p2 Энгельса, д. 74
+10.228.83.229 d2-nvrsk-sovetov6-p6 Советов, д. 2/6
+10.228.80.118 d1-nvrsk-pionerskaya33-p2 Пионерская, д. 33
+10.228.82.185 d1-nvrsk-chernjahov21-p1 Черняховского, д. 21
+10.228.82.184 d1-nvrsk-chernjahov19-p1 Черняховского, д. 19
+10.228.92.105 d1-nvrsk-vidova151-p2 Видова, д. 151
+10.228.92.107 d1-nvrsk-vidova151-p4 Видова, д. 151
+10.228.81.202 d1-nvrsk-kunikova102 Куникова, д. 102
+10.228.80.119 d1-nvrsk-molodezh22-p2 Молодежная, д. 22
+10.228.80.120 d1-nvrsk-molodezh28-p2 Молодежная, д. 28
+10.228.92.108 d1-nvrsk-ahedzhaka6-p1 Мурата Ахеджака, д. 6
+10.228.92.113 d1-nvrsk-ahedzhaka6-p2 Мурата Ахеджака, д. 6
+10.228.92.114 d1-nvrsk-ahedzhaka6-p3 Мурата Ахеджака, д. 6
+10.228.81.204 d1-nvrsk-myshakskoe71-p2 Мысхакское, д. 71
+10.228.81.203 d1-nvrsk-myshakskoe54 Мысхакское, д. 54
+10.228.81.28 d2-nvrsk-myshakskoe50 Мысхакское, д. 50
+10.228.80.240 es1-nvrsk-sverdlova16-p2 Свердлова, д. 16
+10.228.92.115 d1-nvrsk-ujnaya29-p1 Южная, д. 29
+10.228.92.123 d1-nvrsk-vidova173-p5 Видова, д. 173
+10.228.82.32 qs1-nvrsk-kozlova72-p2 Козлова, д. 72
+10.228.80.241 qs2-nvrsk-nabereg61-p3 Серебрякова, д. 61
+10.228.83.111 qs2-nvrsk-kutuzovskaya17-p3 Кутузовская, д. 17
+10.228.92.69 d2-nvrsk-ujnaya21-p3 Южная, д. 21
+10.228.82.186 qs1-nvrsk-kozlova72-p1 Козлова, д. 72
+10.228.80.93 d1-nvrsk-dzer218-p2 Дзержинского, д. 218
+10.228.84.6 qs2-nvrsk-dneprov5-p2 Днепровский, д. 5
+10.228.91.132 d1-nvrsk-dzer185-p2 Дзержинского, д. 185
+10.228.84.167 d1-nvrsk-anapskoe41g-p1 Анапское, д. 41/к.Г
+10.228.80.114 d1-nvrsk-dzerjinskogo226 Дзержинского, д. 226
+10.228.82.187 qs2-nvrsk-alekseeva54-p2 Алексеева, д. 54
+10.228.92.125 d2-nvrsk-ujnaya25-p2 Южная, д. 25
+10.228.80.238 d1-nvrsk-nabereg45-p2 Серебрякова, д. 45
+10.228.91.148 es2-nvrsk-kunikova66-p2 Куникова, д. 66
+10.228.82.221 qs2-nvrsk-karamzina41 Карамзина, д. 41
+10.228.80.242 d1-nvrsk-engels66-p2 Энгельса, д. 66
+10.228.84.168 d1-nvrsk-anapskoe39v-p1 Анапское, д. 39/к.В
+10.228.84.169 d1-nvrsk-anapskoe39v-p2 Анапское, д. 39/к.В
+10.228.84.170 d1-nvrsk-anapskoe39v-p3 Анапское, д. 39/к.В
+10.228.84.171 d1-nvrsk-anapskoe39v-p4 Анапское, д. 39/к.В
+10.228.84.172 d1-nvrsk-anapskoe39v-p5 Анапское, д. 39/к.В
+10.228.80.23 d1-nvrsk-dzerjinskogo206-p1 Дзержинского, д. 206
+10.228.92.126 d2-nvrsk-pupko10-p1 Бориса Пупко, д. 10
+10.228.92.127 d2-nvrsk-ujnaya25-p5 Южная, д. 25
+10.228.80.243 qs2-nvrsk-chernjahov3-p3 Черняховского, д. 3
+10.228.80.244 d1-nvrsk-engels66-p5 Энгельса, д. 66
+10.228.92.106 d1-nvrsk-vidova151-p3 Видова, д. 151
+10.228.80.96 qs2-nvrsk-pionerskaya15-p2 Пионерская, д. 15
+10.228.84.26 d1-nvrsk-vidova79-p2 Видова, д. 79
+10.228.92.128 qs1-nvrsk-ujnaya23 Южная, д. 23
+10.228.80.121 qs2-nvrsk-pionerskaya21b-p1 Пионерская, д. 21/к.Б
+10.228.91.205 es2-nvrsk-desant61a-p2 Героев Десантников, д. 61/к.А
+10.228.92.129 d2-nvrsk-ujnaya21-p2 Южная, д. 21
+10.228.91.140 d1-nvrsk-kunikova34-p2 Куникова, д. 34
+10.228.81.24 d1-nvrsk-volgogradskaya26-p2 Волгоградская, д. 26
+10.228.82.223 d1-nvrsk-kunikova21-p1 Куникова, д. 21
+10.228.80.245 d1-nvrsk-lenina24-p3 Ленина, д. 24
+10.228.82.71 d1-nvrsk-lenina15-p3 Ленина, д. 15
+10.228.81.25 d1-nvrsk-desantnikov12-p2 Героев Десантников, д. 12
+10.228.82.202 d1-nvrsk-kunikova11-p3 Куникова, д. 11
+10.228.82.203 d2-nvrsk-karamzina33-p1 Карамзина, д. 33
+10.228.84.31 d1-nvrsk-anapskoe29-p4 Анапское, д. 29
+10.228.81.205 d1-nvrsk-volgogradskaya48-p2 Волгоградская, д. 48
+10.228.91.133 d1-nvrsk-dzer187-p4 Дзержинского, д. 187
+10.228.80.246 d1-nvrsk-lenina36-p3 Ленина, д. 36
+10.228.81.5 d1-nvrsk-kunikova92 Куникова, д. 92
+10.228.82.28 qs2-nvrsk-dzerjinskogo132-p1 Дзержинского, д. 132
+10.228.91.146 d1-nvrsk-kunikova62-p1 Куникова, д. 62
+10.228.84.173 qs1-nvrsk-anapskoe41l-p1 Анапское, д. 41/к.Л
+10.228.82.206 d1-nvrsk-dzerjinskogo130-p1 Дзержинского, д. 130
+10.228.92.130 es2-nvrsk-ujnaya7-p5 Южная, д. 7
+10.228.92.131 d1-nvrsk-ujnaya27-p1 Южная, д. 27
+10.228.92.132 d1-nvrsk-ujnaya27-p2 Южная, д. 27
+10.228.92.133 d1-nvrsk-ujnaya27-p3 Южная, д. 27
+10.228.92.134 d1-nvrsk-ujnaya27-p4 Южная, д. 27
+10.228.92.135 d1-nvrsk-ujnaya27-p5 Южная, д. 27
+10.228.80.175 d1-nvrsk-lenina22-p8 Ленина, д. 22
+10.228.80.124 d1-nvrsk-dzerjinskogo192 Дзержинского, д. 192
+10.228.83.123 qs1-nvrsk-vidova56-p2 Видова, д. 56
+10.228.81.30 qs2-nvrsk-ujnaya11-p1 Южная, д. 11
+10.228.80.39 d1-nvrsk-dzerjinskogo204-p4 Дзержинского, д. 204
+10.228.80.125 d1-nvrsk-dzerjinskogo210-p3 Дзержинского, д. 210
+10.228.81.104 qs1-nvrsk-lenina99-p5 Ленина, д. 99
+10.228.80.247 qs2-nvrsk-lenina5-p2 Ленина, д. 5
+10.228.91.139 d1-nvrsk-malozem9-p2 Малоземельская, д. 9
+10.228.84.16 d1-nvrsk-vidova123-p1 Видова, д. 123
+10.228.80.232 d1-nvrsk-engels82-p2 Энгельса, д. 82
+10.228.92.137 d2-nvrsk-ahedzhaka22-p4 Мурата Ахеджака, д. 22
+10.228.82.61 d1-nvrsk-gluhova8-p3 Глухова, д. 8
+10.228.80.117 qs2-nvrsk-pionerskaya17-p3 Пионерская, д. 17
+10.228.80.172 qs2-nvrsk-lenina38-p2 Ленина, д. 38
+10.228.81.177 qs2-nvrsk-dzerjinskogo209-p2 Дзержинского, д. 209
+10.228.84.174 d1-nvrsk-anapskoe39d-p2 Анапское, д. 39/к.Д
+10.228.80.25 d1-nvrsk-hvorostyanskogo9-p3 Хворостянского, д. 9
+10.228.83.142 d1-nvrsk-revol21-p3 Революции 1905 года, д. 21
+10.228.80.251 d2-nvrsk-nabereg69-p7 Серебрякова, д. 69
+10.228.82.47 qs2-nvrsk-rubaho16 СнайРубахо, д. 16
+10.228.92.139 qf2-nvrsk-vidova212-p1 Видова, д. 212
+10.228.80.29 d1-nvrsk-dzerjinskogo206-p3 Дзержинского, д. 206
+10.228.81.209 qs2-nvrsk-zolotarevskogo2-p2 Золотаревского, д. 2
+10.228.80.45 d1-nvrsk-verbovaya13 Вербовая, д. 13
+10.228.92.140 d2-nvrsk-ahedzhaka24-p4 Мурата Ахеджака, д. 24
+10.228.82.228 es1-nvrsk-kozlova76-p1 Козлова, д. 76/к./3
+10.228.80.173 d2-nvrsk-parhomenko58-p4 Пархоменко, д. 58
+10.228.81.211 qs2-nvrsk-desantnikov24-p3 Героев Десантников, д. 24
+10.228.81.201 es2-nvrsk-lenina107-p4 Ленина, д. 107
+10.228.80.181 d1-nvrsk-engels80-p2 Энгельса, д. 80
+10.228.81.206 qs2-nvrsk-volgogradskaya4-p1 Волгоградская, д. 4
+10.228.80.250 d1-nvrsk-lenina22-p11 Ленина, д. 22
+10.228.80.27 d1-nvrsk-dzerjinskogo220-p3 Дзержинского, д. 220
+10.228.81.213 qs2-nvrsk-volgogradskaya14-p2 Волгоградская, д. 14
+10.228.92.124 d1-nvrsk-vidova157-p8 Видова, д. 157
+10.228.81.220 d1-nvrsk-volgogradskaya54-p2 Волгоградская, д. 54
+10.228.92.86 qs2-nvrsk-vidova177-p1 Видова, д. 177
+10.228.81.250 d1-nvrsk-pionerskaya9-p2 Пионерская, д. 9
+10.228.81.59 qs2-nvrsk-dzerjinskogo205a Дзержинского, д. 205/к.А
+10.228.81.215 qs2-nvrsk-malozemelskaya1-p1 Малоземельская, д. 1
+10.228.83.118 d1-nvrsk-vidova137a-p1 Видова, д. 137/к.А
+10.228.83.74 d1-nvrsk-vidova137-p1 Видова, д. 137
+10.228.81.253 qs2-nvrsk-malozemelskaya1-p3 Малоземельская, д. 1
+10.228.82.166 d1-nvrsk-kunikova20a Куникова, д. 20А
+10.228.82.229 d2-nvrsk-kunikova20a Куникова, д. 20А
+10.228.80.126 d1-nvrsk-dzerjinskogo213a Дзержинского, д. 213А
+10.228.83.230 qs2-nvrsk-sovetov68-p3 Советов, д. 68
+10.228.81.254 d1-nvrsk-volgogradskaya32-p1 Волгоградская, д. 32
+10.228.82.230 d1-nvrsk-lenina52-p1 Ленина, д. 52
+10.228.82.231 d1-nvrsk-lenina52-p2 Ленина, д. 52
+10.228.82.232 d1-nvrsk-lenina52-p3 Ленина, д. 52
+10.228.82.233 d1-nvrsk-lenina52-p4 Ленина, д. 52
+10.228.92.25 d1-nvrsk-ujnaya9-p1 Южная, д. 9
+10.228.83.57 d1-nvrsk-anapskoe8-p2 Анапское, д. 8
+10.228.92.141 d1-nvrsk-vidova167-p2 Видова, д. 167
+10.228.80.113 d1-nvrsk-hvorostyanskogo9-p2 Хворостянского, д. 9
+10.228.82.225 d1-nvrsk-suvorov71-p1 Суворовская, д. 71
+10.228.82.226 d1-nvrsk-suvorov71-p2 Суворовская, д. 71
+10.228.82.227 d1-nvrsk-suvorov71-p3 Суворовская, д. 71
+10.228.80.249 d1-nvrsk-shmidta38 Лейтенанта Шмидта, д. 38
+10.228.80.248 d1-nvrsk-engels79 Энгельса, д. 79
+10.228.80.204 d1-nvrsk-suvorov52-p2 Суворовская, д. 52
+10.228.92.90 d3-nvrsk-ujnaya25-p2 Южная, д. 25
+10.228.81.11 d2-nvrsk-pionerskaya9-p1 Пионерская, д. 9
+10.228.80.44 qs2-nvrsk-molodezh18-p2 Молодежная, д. 18
+10.228.82.234 qs2-nvrsk-karamzina51a Карамзина, д. 51/к.А
+10.228.81.135 d1-nvrsk-malozemelskaya3-p4 Малоземельская, д. 3
+10.228.82.235 d1-nvrsk-karamzina43 Карамзина, д. 43
+10.228.80.230 d1-nvrsk-lenina22-p2 Ленина, д. 22
+10.228.81.76 qs2-nvrsk-zolotarevskogo2a-p2 Золотаревского, д. 2/к.А
+10.228.86.58 dm2-nvrsk-nabereg9-mkc Серебрякова, д. 8/к.1
+10.228.83.106 d1-nvrsk-anapskoe14-p2 Анапское, д. 14
+10.228.81.166 qs2-nvrsk-dzerjinskogo207-p2 Дзержинского, д. 207
+10.228.91.141 d1-nvrsk-kunikova44-p2 Куникова, д. 44
+10.228.81.127 qs2-nvrsk-dzerjinskogo230 Дзержинского, д. 230
+10.228.83.95 d1-nvrsk-kutuzovskaya3-p2 Кутузовская, д. 3
+10.228.92.142 d2-nvrsk-ujnaya9-p2 Южная, д. 9
+10.228.82.19 qs2-nvrsk-dzerjinskogo134-p1 Дзержинского, д. 134
+10.228.82.236 qs2-nvrsk-kunikova19-p3 Куникова, д. 19
+10.228.80.170 d1-nvrsk-lenina22-p5 Ленина, д. 22
+10.228.80.3 qs2-nvrsk-pionerskaya17-p2 Пионерская, д. 17
+10.228.91.145 d1-nvrsk-kunikova60-p2 Куникова, д. 60
+10.228.80.7 d1-nvrsk-pionerskaya25-p3 Пионерская, д. 25
+10.228.81.22 d1-nvrsk-volgogradskaya2-p3 Волгоградская, д. 2
+10.228.84.24 d1-nvrsk-anapskoe23b-p5 Анапское, д. 23/к.Б
+10.228.92.78 d2-nvrsk-ujnaya21-p4 Южная, д. 21
+10.228.92.143 qs2-nvrsk-anapskoe108-p9 Анапское, д. 108
+10.228.81.114 qs1-nvrsk-volgogradskaya2-p3 Волгоградская, д. 2
+10.228.92.97 d1-nvrsk-vidova167-p9 Видова, д. 167
+10.228.83.79 d1-nvrsk-vidova160-p2 Видова, д. 160
+10.228.80.171 d1-nvrsk-nabereg41-p2 Серебрякова, д. 41
+10.228.81.239 qs2-nvrsk-volgogradskaya30-p1 Волгоградская, д. 30
+10.228.82.237 d1-nvrsk-karamzina20 Карамзина, д. 20
+10.228.91.144 d1-nvrsk-kunikova52-p2 Куникова, д. 52
+10.228.84.158 qs1-nvrsk-anapskoe41e-p3 Анапское, д. 41/к.Е
+10.228.81.154 qs2-nvrsk-volgogradskaya44-p1 Волгоградская, д. 44
+10.228.81.2 qs2-nvrsk-zolotarevskogo8-p2 Золотаревского, д. 8
+10.228.82.31 d1-nvrsk-karamzina35-p2 Карамзина, д. 35
+10.228.80.6 d1-nvrsk-pionerskaya27-p2 Пионерская, д. 27
+10.228.80.97 d1-nvrsk-molodezh28-p4 Молодежная, д. 28
+10.228.82.238 d1-nvrsk-lenina59-p1 Ленина, д. 59
+10.228.83.56 d2-nvrsk-tobolsk5 Тобольская, д. 5
+10.228.86.48 d4-nvrsk-kozlova62 Козлова, д. 62
+10.228.83.84 qs2-nvrsk-anapskoe20-p2 Анапское, д. 20
+10.228.80.42 d1-nvrsk-verbovaya15 Вербовая, д. 15
+10.228.83.101 d1-nvrsk-lunacharskogo6-p4 Луначарского, д. 6
+10.228.93.4 d1-nvrsk-volgogradskaya20-p2 Волгоградская, д. 20
+10.228.81.229 d1-nvrsk-volgogradskaya36-p2 Волгоградская, д. 36
+10.228.81.100 qs2-nvrsk-volgogradskaya42-p2 Волгоградская, д. 42
+10.228.82.17 d1-nvrsk-karamzina21-p2 Карамзина, д. 21
+10.228.82.201 es1-nvrsk-rubaho23 СнайРубахо, д. 23
+10.228.83.116 qs1-nvrsk-kutuzovskaya17-p3 Кутузовская, д. 17
+10.228.82.222 d1-nvrsk-karamzina6-p2 Карамзина, д. 6
+10.228.84.175 qs1-nvrsk-anapskoe41n-2-p3 Анапское, д. 41/к.Н, СТР. 2
+10.228.81.241 qs2-nvrsk-verbovaya17-p2 Вербовая, д. 17
+10.228.81.45 qs1-nvrsk-zolotarevskogo2-p2 Золотаревского, д. 2
+10.228.80.178 qs2-nvrsk-lezhenina88a-p1 Леженина, д. 88/к.А
+10.228.80.167 d1-nvrsk-suvorov2a-p2 Суворовская, д. 2/к.А
+10.228.81.212 qs2-nvrsk-desantnikov38-p2 Героев Десантников, д. 38
+10.228.82.72 qs1-nvrsk-kozlova72-p4 Козлова, д. 72
+10.228.84.176 qs1-nvrsk-anapskoe41n-2-p1 Анапское, д. 41/к.Н, СТР. 2
+10.228.92.38 d1-nvrsk-pupko8-p1 Бориса Пупко, д. 8
+10.228.81.208 qs1-nvrsk-ujnaya13 Южная, д. 13
+10.228.80.2 qs2-nvrsk-ujnaya13 Южная, д. 13
+10.228.83.1 d1-nvrsk-anapskoe23a-p2 Анапское, д. 23/к.А
+10.228.82.76 d1-nvrsk-alekseeva50-p2 Алексеева, д. 50
+10.228.83.231 qs2-nvrsk-gubernskogo2-p3 Губернского, д. 2
+10.228.83.215 d1-nvrsk-sovetov20-p2 Советов, д. 20
+10.228.91.143 d2-nvrsk-kunikova50a Куникова, д. 50/к.А
+10.228.91.142 d1-nvrsk-kunikova50a Куникова, д. 50/к.А
+10.228.83.232 d2-nvrsk-sovetov6-p2 Советов, д. 2/6
+10.228.81.158 qs1-nvrsk-hvorostyanskogo11-p2 Хворостянского, д. 11
+10.228.80.94 d1-nvrsk-molodezh24-p1 Молодежная, д. 24
+10.228.84.177 es2-nvrsk-anapskoe41l-p2 Анапское, д. 41/к.Л
+10.228.80.86 d1-nvrsk-molodezh8-p4 Молодежная, д. 8
+10.228.80.20 qs2-nvrsk-kunikova92b-p1 Куникова, д. 92/к.Б
+10.228.80.19 d1-nvrsk-dzerjinskogo220-p2 Дзержинского, д. 220
+10.228.92.144 qs1-nvrsk-vidova220-p1 Видова, д. 220
+10.228.80.98 d1-nvrsk-molodezh30-p2 Молодежная, д. 30
+10.228.91.147 d1-nvrsk-desant73a-p1 Героев Десантников, д. 73/к.А
+10.228.92.145 d2-nvrsk-ujnaya21-p5 Южная, д. 21
+10.228.92.6 d1-nvrsk-pupko10-p2 Бориса Пупко, д. 10
+10.228.84.33 qs2-nvrsk-vidova158a-p1 Видова, д. 158/к.А
+10.228.84.179 qs1-nvrsk-anapskoe41n-1-p1 Анапское, д. 41/к.Н, СТР. 1
+10.228.84.180 es2-nvrsk-anapskoe41l-p4 Анапское, д. 41/к.Л
+10.228.82.22 es2-nvrsk-anapskoe53-1-p1 Анапское, д. 53/стр. 1
+10.228.84.34 qs2-nvrsk-vidova190-p3 Видова, д. 190
+10.228.92.53 d2-nvrsk-ujnaya21-p1 Южная, д. 21
+10.228.92.146 d2-nvrsk-ujnaya9-p3 Южная, д. 9
+10.228.81.102 d1-nvrsk-dzerjinskogo217-p5 Дзержинского, д. 217
+10.228.84.7 d1-nvrsk-vidova121a-1 Видова, д. 121А/к.1
+10.228.84.32 d1-nvrsk-vidova121a-2 Видова, д. 121А/к.2
+10.228.84.178 es2-nvrsk-anapskoe41g-p2 Анапское, д. 41/к.Г
+10.228.84.181 es2-nvrsk-anapskoe41g-p3 Анапское, д. 41/к.Г
+10.228.84.35 qs2-nvrsk-anapskoe16-p2 Анапское, д. 16
+10.228.80.73 d1-nvrsk-hvorostyanskogo7-p2 Хворостянского, д. 7
+10.228.82.239 d2-nvrsk-lenina52-p3 Ленина, д. 52
+10.228.83.115 d1-nvrsk-kutuzovskaya17-p2 Кутузовская, д. 17
+10.228.91.225 d1-nvrsk-desant89-p1 Героев Десантников, д. 89
+10.228.92.147 qs1-nvrsk-vidova220-p2 Видова, д. 220
+10.228.92.149 d2-nvrsk-ujnaya27-p2 Южная, д. 27
+10.228.80.87 d1-nvrsk-molodezh10-p1 Молодежная, д. 10
+10.228.81.4 qs2-nvrsk-malozemelskaya5-p2 Малоземельская, д. 5
+10.228.81.134 es2-nvrsk-lenina105-p1 Ленина, д. 105
+10.228.91.227 d1-nvrsk-desant49-p2 Героев Десантников, д. 49
+10.228.92.138 qs1-nvrsk-vidova212-p2 Видова, д. 212
+10.228.81.6 es2-nvrsk-lenina109 Ленина, д. 109
+10.228.91.200 d2-nvrsk-dzer199 Дзержинского, д. 199
+10.228.84.182 es2-nvrsk-anapskoe41e-p6 Анапское, д. 41/к.Е
+10.228.91.135 d1-nvrsk-dzer199 Дзержинского, д. 199
+10.228.92.150 d2-nvrsk-ahedzhaka22-p2 Мурата Ахеджака, д. 22
+10.228.82.240 qs1-nvrsk-kozlova72-p3 Козлова, д. 72
+10.228.80.12 d1-nvrsk-ujnaya12-p2 Южная, д. 12
+10.228.81.235 d1-nvrsk-dzerjinskogo194 Дзержинского, д. 194
+10.228.92.152 d2-nvrsk-ujnaya27-p4 Южная, д. 27
+10.228.91.195 es1-nvrsk-dzer201 Дзержинского, д. 201
+10.228.84.183 es2-nvrsk-anapskoe41e-p1 Анапское, д. 41/к.Е
+10.228.80.38 d1-nvrsk-verbovaya9-p2 Вербовая, д. 9
+10.228.92.151 qs1-nvrsk-vidova214-p2 Видова, д. 214
+10.228.80.61 d1-nvrsk-dzerjinskogo219-p4 Дзержинского, д. 219
+10.228.80.164 qs2-nvrsk-nabereg35-p2 Серебрякова, д. 35
+10.228.80.102 d1-nvrsk-dzerjinskogo215-p1 Дзержинского, д. 215
+10.228.92.153 d1-nvrsk-ujnaya19 Южная, д. 19
+10.228.84.184 qs1-nvrsk-anapskoe41n-2-p5 Анапское, д. 41/к.Н, СТР. 2
+10.228.91.228 es2-nvrsk-dzer183 Дзержинского, д. 183
+10.228.91.229 es2-nvrsk-malozemelskaya11-p3 Малоземельская, д. 11
+10.228.80.111 d1-nvrsk-ujnaya6-p6 Южная, д. 6
+10.228.83.46 qs2-nvrsk-anapskoe4-p2 Анапское, д. 4
+10.228.82.242 d1-nvrsk-lenina45-p2 Ленина, д. 45
+10.228.80.221 d1-nvrsk-tolstogo17-p2 Толстого, д. 17
+10.228.92.122 d2-nvrsk-ahedzhaka24-p2 Мурата Ахеджака, д. 24
+10.228.82.121 qs2-nvrsk-alekseeva29-p3 Алексеева, д. 29
+10.228.92.136 d2-nvrsk-pupko8-p3 Бориса Пупко, д. 8
+10.228.80.252 qs2-nvrsk-sverdlova16a-p3 Свердлова, д. 16/к.А
+10.228.82.243 d1-nvrsk-karamzina57-p1 Карамзина, д. 57
+10.228.92.154 d2-nvrsk-ujnaya29-p1 Южная, д. 29
+10.228.82.244 d1-nvrsk-desantnikov33-p3 Героев Десантников, д. 33
+10.228.81.23 d1-nvrsk-lenina99-p3 Ленина, д. 99
+10.228.91.231 d2-nvrsk-desant65-1-p3 Героев Десантников, д. 65/к./1
+10.228.91.161 d1-nvrsk-desant65-1-p3 Героев Десантников, д. 65/к./1
+10.228.83.234 d2-nvrsk-novoresp8-p3 Новороссийской Республики, д. 8
+10.228.83.233 d1-nvrsk-marksa2-p5 Карла Маркса, д. 2
+10.228.92.148 d2-nvrsk-ujnaya27-p1 Южная, д. 27
+10.228.80.15 d1-nvrsk-molodezh8-p2 Молодежная, д. 8
+10.228.82.247 d1-nvrsk-dzerjinskogo138-p1 Дзержинского, д. 138
+10.228.80.112 d1-nvrsk-dzerjinskogo198-p2 Дзержинского, д. 198
+10.228.81.75 qs2-nvrsk-ujnaya1-p2 Южная, д. 1
+10.228.81.90 qs3-nvrsk-ujnaya1-p2 Южная, д. 1
+10.228.86.62 dm2-nvrsk-suvorovskaya2b-p2 Суворовская, д. 2/к.Б
+10.228.80.253 d1-nvrsk-nabereg51-p2 Серебрякова, д. 51
+10.228.81.151 d1-nvrsk-dzer218-p1 Дзержинского, д. 218
+10.228.92.155 qs1-nvrsk-pionerskaya18 Пионерская, д. 18
+10.228.81.92 qs2-nvrsk-desantnikov24-p2 Героев Десантников, д. 24
+10.228.80.32 d2-nvrsk-dzerjinskogo213a Дзержинского, д. 213А
+10.228.80.216 d1-nvrsk-sverdlova18-p3 Свердлова, д. 18
+10.228.80.55 d1-nvrsk-dzerjinskogo202-p2 Дзержинского, д. 202
+10.228.91.207 d1-nvrsk-desant65-1-p1 Героев Десантников, д. 65/к./1
+10.228.91.232 d2-nvrsk-desant65-1-p1 Героев Десантников, д. 65/к./1
+10.228.82.64 d1-nvrsk-kunikova11-p2 Куникова, д. 11
+10.228.83.236 qs2-nvrsk-tolstogo1-p3 Толстого, д. 1
+10.228.81.181 es2-nvrsk-lenina101-p2 Ленина, д. 101
+10.228.80.123 d1-nvrsk-dzerjinskogo204-p2 Дзержинского, д. 204
+10.228.80.26 qs2-nvrsk-ujnaya17-p1 Южная, д. 17
+10.228.91.233 es2-nvrsk-desant81-p1 Героев Десантников, д. 81
+10.228.82.27 d1-nvrsk-moskowskaya3-p2 Московская, д. 3
+10.228.84.38 d1-nvrsk-vidova79-p4 Видова, д. 79
+10.228.83.237 qs2-nvrsk-ledneva2-p2 Леднева, д. 2
+10.228.81.93 qs2-nvrsk-volgogradskaya44-p3 Волгоградская, д. 44
+10.228.83.238 d1-nvrsk-nabereg21-p3 Серебрякова, д. 21
+10.228.80.74 qs2-nvrsk-dzerjinskogo216-p1 Дзержинского, д. 216
+10.228.92.81 d2-nvrsk-pupko8-p2 Бориса Пупко, д. 8
+10.228.81.94 qs2-nvrsk-desantnikov14-p3 Героев Десантников, д. 14
+10.228.83.119 d1-nvrsk-anapskoe23b-p2 Анапское, д. 23/к.Б
+10.228.80.254 d1-nvrsk-lenina34-p3 Ленина, д. 34
+10.228.81.96 d1-nvrsk-myshakskoe52 Мысхакское, д. 52
+10.228.81.95 d2-nvrsk-myshakskoe52 Мысхакское, д. 52
+10.228.92.157 d1-nvrsk-vidova196 Видова, д. 196
+10.228.81.91 d2-nvrsk-myshakskoe71-p2 Мысхакское, д. 71
+10.228.82.246 d2-nvrsk-lenina52-p1 Ленина, д. 52
+10.228.80.62 d1-nvrsk-hvorostyanskogo13-p1 Хворостянского, д. 13
+10.228.92.160 d1-nvrsk-ujnaya7-p1 Южная, д. 7
+10.228.92.161 d2-nvrsk-ujnaya7-p1 Южная, д. 7
+10.228.92.159 d2-nvrsk-pupko8-p4 Бориса Пупко, д. 8
+10.228.80.174 d1-nvrsk-lenina28-p3 Ленина, д. 28
+10.228.84.185 qs1-nvrsk-anapskoe41e-p2 Анапское, д. 41/к.Е
+10.228.84.186 qs2-nvrsk-anapskoe41e-p2 Анапское, д. 41/к.Е
+10.228.80.131 d1-nvrsk-nabereg63-p3 Серебрякова, д. 63
+10.228.82.178 qs2-nvrsk-dzerjinskogo162 Дзержинского, д. 162
+10.228.84.37 d1-nvrsk-schorsa3-p1 Щорса, д. 3
+10.228.92.158 d2-nvrsk-vidova153-1-p2 Видова, д. 153/к.1
+10.228.92.80 d1-nvrsk-vidova165-p7 Видова, д. 165
+10.228.92.121 d2-nvrsk-vidova165-p7 Видова, д. 165
+10.228.81.97 qs2-nvrsk-zolotarevskogo4-p2 Золотаревского, д. 4
+10.228.84.187 qs1-nvrsk-anapskoe41l-p3 Анапское, д. 41/к.Л
+10.228.84.188 qs2-nvrsk-anapskoe41l-p3 Анапское, д. 41/к.Л
+10.228.84.8 d1-nvrsk-vidova67-p2 Видова, д. 67
+10.228.80.184 d1-nvrsk-serova17-p1 Серова, д. 17
+10.228.80.187 d1-nvrsk-serova17-p2 Серова, д. 17
+10.228.80.43 d1-nvrsk-dzerjinskogo217-p2 Дзержинского, д. 217
+10.228.82.248 qs2-nvrsk-desantnikov9 Героев Десантников, д. 9
+10.228.80.103 d1-nvrsk-molodezh16-p2 Молодежная, д. 16
+10.228.81.31 qs2-nvrsk-desantnikov30-p2 Героев Десантников, д. 30
+10.228.80.90 qs2-nvrsk-dzerjinskogo224-p1 Дзержинского, д. 224
+10.228.81.99 qs2-nvrsk-zolotarevskogo12-p2 Золотаревского, д. 12
+10.228.92.76 d1-nvrsk-anapskoe108-p2 Анапское, д. 108
+10.228.80.130 d1-nvrsk-tolstogo19-p2 Толстого, д. 19
+10.228.92.162 d1-nvrsk-vidova169-p5 Видова, д. 169
+10.228.83.145 qs2-nvrsk-mira19-p2 Мира, д. 19
+10.228.80.69 d1-nvrsk-pionerskaya39-p2 Пионерская, д. 39
+10.228.84.142 d1-nvrsk-anapskoe41i-p2 Анапское, д. 41/к.И
+10.228.84.148 d2-nvrsk-anapskoe41i-p2 Анапское, д. 41/к.И
+10.228.81.101 qs3-nvrsk-volgogradskaya42-p2 Волгоградская, д. 42
+10.228.81.103 d1-nvrsk-lenina99-p4 Ленина, д. 99
+10.228.81.105 d2-nvrsk-lenina99-p4 Ленина, д. 99
+10.228.80.72 d1-nvrsk-pionerskaya19 Пионерская, д. 19
+10.228.92.55 d2-nvrsk-ahedzhaka22-p3 Мурата Ахеджака, д. 22
+10.228.81.182 d1-nvrsk-lenina103-p1 Ленина, д. 103
+10.228.81.180 d2-nvrsk-lenina103-p1 Ленина, д. 103
+10.228.83.13 d1-nvrsk-kozlova56-p1 Козлова, д. 56
+10.228.80.215 d1-nvrsk-engels84-p3 Энгельса, д. 84
+10.228.81.178 d1-nvrsk-lenina101-p1 Ленина, д. 101
+10.228.81.179 d2-nvrsk-lenina101-p1 Ленина, д. 101
+10.228.92.156 d1-nvrsk-vidova196a Видова, д. 196/к.А
+10.228.92.63 d2-nvrsk-vidova153-2-p1 Видова, д. 153/к.2
+10.228.80.22 d1-nvrsk-dzerjinskogo216a-p2 Дзержинского, д. 216/к.А
+10.228.81.106 qs2-nvrsk-malozemelskaya14-p2 Малоземельская, д. 14
+10.228.80.206 qs2-nvrsk-lenina40a-p1 Ленина, д. 40/к.А
+10.228.82.36 d1-nvrsk-gluhova20-p4 Глухова, д. 20
+10.228.82.161 qs2-nvrsk-karamzina25-p2 Карамзина, д. 25
+10.228.89.122 or-nvrsk-tobolsk7 Тобольская, д. 7
+10.228.89.157 or1-nvrsk-anapskoe41i-p3 Анапское, д. 41/к.И
+10.228.89.160 or1-nvrsk-anapskoe41l-p3 Анапское, д. 41/к.Л
+10.228.89.161 or1-nvrsk-anapskoe41l-p4 Анапское, д. 41/к.Л
+10.228.89.25 sd-nvrsk-marksa35-p2 Карла Маркса, д. 35
+10.228.89.105 or-nvrsk-rubina3-p3 Рубина, д. 3
+10.228.89.22 sd-nvrsk-lenina12-p3 Ленина, д. 12
+10.228.94.230 or-nvrsk-desant61a-p2 Героев Десантников, д. 61/к.А
+10.228.89.174 or-nvrsk-kunikova36-p3 Куникова, д. 36
+10.228.89.178 or-nvrsk-kunikova40-p2 Куникова, д. 40
+10.228.89.144 or1-nvrsk-anapskoe41e-p1 Анапское, д. 41/к.Е
+10.228.89.145 or1-nvrsk-anapskoe41e-p2 Анапское, д. 41/к.Е
+10.228.89.146 or1-nvrsk-anapskoe41e-p3 Анапское, д. 41/к.Е
+10.228.89.148 or1-nvrsk-anapskoe41e-p5 Анапское, д. 41/к.Е
+10.228.89.107 sd-nvrsk-anapskoe4-p2 Анапское, д. 4
+10.228.94.155 or-nvrsk-anapskoe20-p2 Анапское, д. 20
+10.228.89.106 sd-nvrsk-anapskoe23a-p5 Анапское, д. 23/к.А
+10.228.89.18 sd-nvrsk-desantnikov11-p4 Героев Десантников, д. 11
+10.228.89.19 sd-nvrsk-dzer160-p5 Дзержинского, д. 160
+10.228.89.116 sd-nvrsk-lenina45-p2 Ленина, д. 45
+10.228.89.20 sd-nvrsk-lenina57-p2 Ленина, д. 57
+10.228.89.114 sd-nvrsk-lenina85-p2 Ленина, д. 85
+10.228.89.21 sd-nvrsk-lenina91-p9 Ленина, д. 91
+10.228.89.23 sd-nvrsk-nabereg61-p3 Серебрякова, д. 61
+10.228.89.10 sd-nvrsk-volgogr4-p1 Волгоградская, д. 4
+10.228.89.247 or-nvrsk-molodezh16-p2 Молодежная, д. 16
+10.228.89.9 sd-nvrsk-ujnaya6-p6 Южная, д. 6
+10.228.94.117 sd-nvrsk-ujnaya7-p1 Южная, д. 7
+10.228.89.140 or1-nvrsk-ujnaya7-p5 Южная, д. 7
+10.228.89.126 or1-nvrsk-lenina105-p2 Ленина, д. 105
+10.228.89.118 or1-nvrsk-lenina101-p1 Ленина, д. 101
+10.228.89.119 or1-nvrsk-lenina101-p2 Ленина, д. 101
+10.228.89.133 or1-nvrsk-lenina99-p1 Ленина, д. 99
+10.228.89.11 sd-nvrsk-dzer209-p2 Дзержинского, д. 209
+10.228.89.109 sd-nvrsk-dzer194 Дзержинского, д. 194
+10.228.89.206 sd-nvrsk-dzerjinskogo216a-p2 Дзержинского, д. 216/к.А
+10.228.89.208 or-nvrsk-dzerjinskogo217-p5 Дзержинского, д. 217
+10.228.89.179 or-nvrsk-kunikova42-p2 Куникова, д. 42
+10.228.89.181 or1-nvrsk-kunikova44-p2 Куникова, д. 44
+10.228.89.182 or1-nvrsk-kunikova48 Куникова, д. 48
+10.228.89.183 or1-nvrsk-kunikova50-p3 Куникова, д. 50
+10.228.89.185 or-nvrsk-kunikova50a Куникова, д. 50/к.А
+10.228.89.187 or-nvrsk-kunikova52-p2 Куникова, д. 52
+10.228.89.189 or-nvrsk-kunikova54-p3 Куникова, д. 54
+10.228.89.190 or-nvrsk-kunikova54-p7 Куникова, д. 54
+10.228.89.191 or-nvrsk-kunikova58-p1 Куникова, д. 58
+10.228.89.197 or-nvrsk-kunikova60a-p1 Куникова, д. 60/к.А
+10.228.89.198 or-nvrsk-kunikova62-p1 Куникова, д. 62
+10.228.89.201 or-nvrsk-kunikova64-p2 Куникова, д. 64
+10.228.89.204 or-nvrsk-kunikova64a-p5 Куникова, д. 64/к.А
+10.228.89.203 or-nvrsk-kunikova64a-p2 Куникова, д. 64/к.А
+10.228.89.14 sd-nvrsk-gluhova8-p3 Глухова, д. 8
+10.228.89.17 sd-nvrsk-dzer140-p1 Дзержинского, д. 140
+10.228.89.15 sd-nvrsk-kunikova19-p2 Куникова, д. 19
+10.228.89.177 or-nvrsk-kunikova38-p5 Куникова, д. 38
+10.228.89.134 or1-nvrsk-lenina99-p2 Ленина, д. 99
+10.228.89.121 or1-nvrsk-lenina103-p2 Ленина, д. 103
+10.228.89.124 or1-nvrsk-lenina103-p5 Ленина, д. 103
+10.228.89.128 or1-nvrsk-lenina107-p2 Ленина, д. 107
+10.228.89.130 or1-nvrsk-lenina107-p4 Ленина, д. 107
+10.228.89.151 or-nvrsk-anapskoe41j-p2 Анапское, д. 41/к.Ж
+10.228.89.141 or-nvrsk-sovetov74-p2 Советов, д. 74
+10.228.94.115 sd-nvrsk-kunikova60-p2 Куникова, д. 60
+10.228.89.4 sd-nvrsk-kunikova9-p4 Куникова, д. 9
+10.228.89.16 sd-nvrsk-rubaho10-p2 СнайРубахо, д. 10
+10.228.89.24 sd-nvrsk-vidova168-p2 Видова, д. 168
+10.228.94.59 sd-nvrsk-lezhenina88a-p1 Леженина, д. 88/к.А
+10.228.89.173 or-nvrsk-kunikova34-p2 Куникова, д. 34
+10.228.89.142 or1-nvrsk-anapskoe41g-p2 Анапское, д. 41/к.Г
+10.228.89.136 or1-nvrsk-lenina99-p4 Ленина, д. 99
+10.228.89.108 sd-nvrsk-karamzina51 Карамзина, д. 51
+10.228.89.34 sd-nvrsk-mira45-p2 Мира, д. 45
+10.228.89.35 sd-nvrsk-nabereg1-p2 Серебрякова, д. 1
+10.228.89.36 sd-nvrsk-nabereg3-p2 Серебрякова, д. 3
+10.228.89.38 sd-nvrsk-novoresp2a-p1 Новороссийской Республики, д. 2/к.А
+10.228.89.39 sd-nvrsk-novoresp8-p3 Новороссийской Республики, д. 8
+10.228.89.40 sd-nvrsk-revol6-p3 Революции 1905 года, д. 6
+10.228.89.41 sd-nvrsk-gubernskogo22-p1 Губернского, д. 22
+10.228.89.42 sd-nvrsk-gubernskogo32-p2 Губернского, д. 32
+10.228.89.27 sd-nvrsk-mira10-p2 Мира, д. 10
+10.228.89.28 sd-nvrsk-mira10a-p1 Мира, д. 10/к.А
+10.228.89.29 sd-nvrsk-mira14-p3 Мира, д. 14
+10.228.89.26 sd-nvrsk-mira12-p3 Мира, д. 12
+10.228.89.31 sd-nvrsk-mira37-p2 Мира, д. 37
+10.228.89.33 sd-nvrsk-mira49-p2 Мира, д. 49
+10.228.89.30 sd-nvrsk-mira29-p3 Мира, д. 29
+10.228.89.86 sd-nvrsk-sovetov20-p2 Советов, д. 20
+10.228.89.87 sd-nvrsk-sovetov16-p3 Советов, д. 16
+10.228.89.88 sd-nvrsk-sovetov12-p2 Советов, д. 12
+10.228.89.89 sd-nvrsk-sovetov10-p2 Советов, д. 10
+10.228.89.90 sd-nvrsk-sovetov7-p2 Советов, д. 7
+10.228.89.91 sd-nvrsk-sovetov11-p2 Советов, д. 11
+10.228.89.92 sd-nvrsk-sovetov13-p2 Советов, д. 13
+10.228.89.93 sd-nvrsk-sovetov13-p5 Советов, д. 13
+10.228.89.103 sd-nvrsk-sovetov2-p2 Советов, д. 2/6
+10.228.89.104 sd-nvrsk-sovetov2-p6 Советов, д. 2/6
+10.228.89.94 sd-nvrsk-svobody9-p2 Свободы, д. 9/11
+10.228.89.95 sd-nvrsk-biruzova2-p2 Бирюзова, д. 2
+10.228.89.49 sd-nvrsk-vidova153-1-p1 Видова, д. 153/к.1
+10.228.89.51 sd-nvrsk-vidova153-1-p3 Видова, д. 153/к.1
+10.228.89.52 sd-nvrsk-vidova153-1-p4 Видова, д. 153/к.1
+10.228.89.53 sd-nvrsk-vidova153-2-p1 Видова, д. 153/к.2
+10.228.89.55 sd-nvrsk-vidova153-2-p3 Видова, д. 153/к.2
+10.228.89.56 sd-nvrsk-vidova153-2-p4 Видова, д. 153/к.2
+10.228.89.76 sd-nvrsk-ahedzhaka24-p1 Мурата Ахеджака, д. 24
+10.228.89.77 sd-nvrsk-ahedzhaka24-p2 Мурата Ахеджака, д. 24
+10.228.89.78 sd-nvrsk-ahedzhaka24-p3 Мурата Ахеджака, д. 24
+10.228.89.79 sd-nvrsk-ahedzhaka24-p4 Мурата Ахеджака, д. 24
+10.228.89.72 sd-nvrsk-ahedzhaka22-p1 Мурата Ахеджака, д. 22
+10.228.89.73 sd-nvrsk-ahedzhaka22-p2 Мурата Ахеджака, д. 22
+10.228.89.74 sd-nvrsk-ahedzhaka22-p3 Мурата Ахеджака, д. 22
+10.228.89.75 sd-nvrsk-ahedzhaka22-p4 Мурата Ахеджака, д. 22
+10.228.89.68 sd-nvrsk-pupko8-p1 Бориса Пупко, д. 8
+10.228.89.69 sd-nvrsk-pupko8-p2 Бориса Пупко, д. 8
+10.228.89.70 sd-nvrsk-pupko8-p3 Бориса Пупко, д. 8
+10.228.89.71 sd-nvrsk-pupko8-p4 Бориса Пупко, д. 8
+10.228.89.65 sd-nvrsk-pupko10-p1 Бориса Пупко, д. 10
+10.228.89.66 sd-nvrsk-pupko10-p2 Бориса Пупко, д. 10
+10.228.89.67 sd-nvrsk-pupko10-p3 Бориса Пупко, д. 10
+10.228.89.59 sd-nvrsk-pioner45-p1 Пионерская, д. 45
+10.228.89.85 sd-nvrsk-ujnaya23-p1 Южная, д. 23
+10.228.89.60 sd-nvrsk-ujnaya9-p1 Южная, д. 9
+10.228.89.61 sd-nvrsk-ujnaya9-p2 Южная, д. 9
+10.228.89.62 sd-nvrsk-ujnaya9-p3 Южная, д. 9
+10.228.89.80 sd-nvrsk-ujnaya21-p1 Южная, д. 21
+10.228.89.81 sd-nvrsk-ujnaya21-p2 Южная, д. 21
+10.228.89.82 sd-nvrsk-ujnaya21-p3 Южная, д. 21
+10.228.89.83 sd-nvrsk-ujnaya21-p4 Южная, д. 21
+10.228.89.84 sd-nvrsk-ujnaya21-p5 Южная, д. 21
+10.228.89.12 sd-nvrsk-malozem14a-p3 Малоземельская, д. 14/к.А
+10.228.89.13 sd-nvrsk-malozem14a-p4 Малоземельская, д. 14/к.А
+10.228.89.57 sd-nvrsk-pioner9-p1 Пионерская, д. 9
+10.228.89.58 sd-nvrsk-pioner9-p2 Пионерская, д. 9
+10.228.89.63 sd-nvrsk-ujnaya9-p4 Южная, д. 9
+10.228.89.64 sd-nvrsk-ujnaya9-p5 Южная, д. 9
+10.228.89.44 sd-nvrsk-sovetov26-p2 Советов, д. 26
+10.228.89.45 sd-nvrsk-sovetov26-p5 Советов, д. 26
+10.228.89.46 sd-nvrsk-sovetov22-p2 Советов, д. 22
+10.228.89.47 sd-nvrsk-sovetov22-p5 Советов, д. 22
+10.228.89.32 sd-nvrsk-mira37-p5 Мира, д. 37
+10.228.89.96 sd-nvrsk-kommunist4-p2 Коммунистическая, д. 4
+10.228.89.97 sd-nvrsk-kommunist4-p5 Коммунистическая, д. 4
+10.228.89.98 sd-nvrsk-sovetov21-p2 Советов, д. 21
+10.228.89.100 sd-nvrsk-sovetov23-p2 Советов, д. 23
+10.228.89.99 sd-nvrsk-rubina4-p2 Рубина, д. 4
+10.228.89.48 sd-nvrsk-sovetov22-p7 Советов, д. 22
+10.228.89.43 sd-nvrsk-sovetov24-p2 Советов, д. 24
+10.228.94.56 or-nvrsk-desant55a Героев Десантников, д. 55/к.А
+10.228.89.215 sd-nvrsk-pioner17-p2 Пионерская, д. 17
+10.228.89.111 sd-nvrsk-kunikova92 Куникова, д. 92
+10.228.89.115 sd-nvrsk-lenina27 Ленина, д. 27
+10.228.89.162 sd-nvrsk-anapskoe108-p9 Анапское, д. 108
+10.228.89.131 or1-nvrsk-lenina107-p5 Ленина, д. 107
+10.228.94.67 or-nvrsk-tolstogo19-p2 Толстого, д. 19
+10.228.94.78 sd-nvrsk-karamzina20 Карамзина, д. 20
+10.228.89.149 or1-nvrsk-anapskoe41e-p6 Анапское, д. 41/к.Е
+10.228.94.164 or-nvrsk-kunikova11-p3 Куникова, д. 11
+10.228.89.37 sd-nvrsk-karamzina43 Карамзина, д. 43
+10.228.89.120 sd-nvrsk-parhomenko58-p4 Пархоменко, д. 58
+10.228.89.112 sd-nvrsk-dzerjinskogo220-p2 Дзержинского, д. 220
+10.228.89.159 or1-nvrsk-anapskoe41l-p2 Анапское, д. 41/к.Л
+10.228.89.125 sd1-nvrsk-lenina105-p1 Ленина, д. 105
+10.228.89.102 sd-nvrsk-sovetov68-p3 Советов, д. 68
+10.228.89.213 sd-nvrsk-dzer206-p3 Дзержинского, д. 206
+10.228.94.62 or-nvrsk-dzerjinskogo152 Дзержинского, д. 152
+10.228.94.55 or-nvrsk-desantnikov35-p5 Героев Десантников, д. 35
+10.228.89.216 sd1-nvrsk-anapskoe41n-1 Анапское, д. 41/к.Н, СТР. 1
+10.228.89.217 sd2-nvrsk-anapskoe41n-1 Анапское, д. 41/к.Н, СТР. 1
+10.228.89.218 sd1-nvrsk-anapskoe41n-2-p1 Анапское, д. 41/к.Н, СТР. 2
+10.228.89.219 sd1-nvrsk-anapskoe41n-2-p2 Анапское, д. 41/к.Н, СТР. 2
+10.228.89.220 sd1-nvrsk-anapskoe41n-2-p3 Анапское, д. 41/к.Н, СТР. 2
+10.228.89.221 sd1-nvrsk-anapskoe41n-2-p4 Анапское, д. 41/к.Н, СТР. 2
+10.228.89.222 sd1-nvrsk-anapskoe41n-2-p5 Анапское, д. 41/к.Н, СТР. 2
+10.228.89.223 sd1-nvrsk-anapskoe39d-p1 Анапское, д. 39/к.Д
+10.228.89.224 sd1-nvrsk-anapskoe39d-p2 Анапское, д. 39/к.Д
+10.228.89.225 sd1-nvrsk-anapskoe39d-p3 Анапское, д. 39/к.Д
+10.228.89.226 sd1-nvrsk-anapskoe39d-p4 Анапское, д. 39/к.Д
+10.228.89.209 sd1-nvrsk-pioner18 Пионерская, д. 18
+10.228.89.210 sd2-nvrsk-pioner18 Пионерская, д. 18
+10.228.89.211 sd-nvrsk-ujnaya25-p2 Южная, д. 25
+10.228.89.212 sd-nvrsk-ujnaya25-p5 Южная, д. 25
+10.228.89.235 sd-nvrsk-vidova212-p1 Видова, д. 212
+10.228.89.236 sd-nvrsk-vidova212-p2 Видова, д. 212
+10.228.89.230 sd1-nvrsk-vidova214-p1 Видова, д. 214
+10.228.89.231 sd2-nvrsk-vidova214-p1 Видова, д. 214
+10.228.89.232 sd1-nvrsk-vidova214-p2 Видова, д. 214
+10.228.89.233 sd1-nvrsk-vidova214-p3 Видова, д. 214
+10.228.89.234 sd2-nvrsk-vidova214-p3 Видова, д. 214
+10.228.89.227 sd-nvrsk-vidova220-p1 Видова, д. 220
+10.228.89.228 sd-nvrsk-vidova220-p2 Видова, д. 220
+10.228.89.229 sd-nvrsk-vidova220-p3 Видова, д. 220
+10.228.89.237 sd-nvrsk-kozlova72-p1 Козлова, д. 72
+10.228.89.238 sd-nvrsk-kozlova72-p2 Козлова, д. 72
+10.228.89.239 sd-nvrsk-kozlova72-p3 Козлова, д. 72
+10.228.89.245 sd-nvrsk-kozlova72-p4 Козлова, д. 72
+10.228.89.143 sd1-nvrsk-anapskoe41g-p3 Анапское, д. 41/к.Г
+10.228.89.137 sd1-nvrsk-lenina99-p5 Ленина, д. 99
+10.228.89.138 or-nvrsk-kutuzovskaya115 Кутузовская, д. 115
+10.228.89.110 or-nvrsk-ujnaya10a Южная, д. 10/к.А
+10.228.89.117 sd-nvrsk-lenina77-p2 Ленина, д. 77
+10.228.89.101 sd-nvrsk-michurin2-p3 Мичуринский, д. 2
+10.228.94.68 or-nvrsk-tolstogo11-p3 Толстого, д. 11
+10.228.94.61 sd-nvrsk-anapskoe52-p2 Анапское, д. 52
+10.228.94.64 or-nvrsk-desant59-p2 Героев Десантников, д. 59
+10.228.94.57 sd-nvrsk-schorsa3-p1 Щорса, д. 3
+10.228.94.58 sd-nvrsk-kunikova62-p2 Куникова, д. 62
+10.228.94.70 sd-nvrsk-molodezh22-p2 Молодежная, д. 22
+10.228.94.69 or-nvrsk-engels78-p2 Энгельса, д. 78
+10.228.94.63 sd-nvrsk-dzerjinskogo216-p1 Дзержинского, д. 216
+10.228.94.60 sd-nvrsk-anapskoe62-p5 Анапское, д. 62
+10.228.94.145 sd-nvrsk-lenina22-p2 Ленина, д. 22
+10.228.94.160 sd-nvrsk-vidova167-p9 Видова, д. 167
+10.228.94.72 sd-nvrsk-volgogr14-p2 Волгоградская, д. 14
+10.228.94.74 sd-nvrsk-desant65-1-p3 Героев Десантников, д. 65/к./1
+10.228.94.75 sd-nvrsk-karamzina6-p1 Карамзина, д. 6
+10.228.94.66 sd-nvrsk-anapskoe41i-p2 Анапское, д. 41/к.И
+10.228.94.65 sd-nvrsk-rubaho12-p2 СнайРубахо, д. 12
+10.228.94.77 sd-nvrsk-vidova160-p2 Видова, д. 160
+10.228.94.79 sd-nvrsk-karamzina45 Карамзина, д. 45
+10.228.94.80 sd-nvrsk-verbovaya3-p1 Вербовая, д. 3
+10.228.94.71 sd-nvrsk-vidova177-p1 Видова, д. 177
+10.228.94.81 sd-nvrsk-rubaho16 СнайРубахо, д. 16
+10.228.94.87 sd-nvrsk-dzerjinskogo154 Дзержинского, д. 154
+10.228.94.89 sd-nvrsk-desantnikov17 Героев Десантников, д. 17
+10.228.94.93 or-nvrsk-dzerjinskogo221 Дзержинского, д. 221
+10.228.94.94 or-nvrsk-dzerjinskogo231-p1.krd Дзержинского, д. 231
+10.228.94.95 or-nvrsk-dzerjinskogo231-p2 Дзержинского, д. 231
+10.228.94.91 or-nvrsk-dzerjinskogo221a-p1 Дзержинского, д. 221А
+10.228.94.92 or-nvrsk-dzerjinskogo221a-p2 Дзержинского, д. 221А
+10.228.94.96 or-nvrsk-dzerjinskogo217a Дзержинского, д. 217/к.А
+10.228.94.99 or-nvrsk-suvorov77-p1 Суворовская, д. 77
+10.228.94.100 or-nvrsk-suvorov77-p2 Суворовская, д. 77
+10.228.94.101 or-nvrsk-suvorov77-p3 Суворовская, д. 77
+10.228.94.102 or-nvrsk-suvorov77-p4 Суворовская, д. 77
+10.228.94.98 or-nvrsk-suvorov79-p1 Суворовская, д. 79
+10.228.94.97 or-nvrsk-suvorov79-p2 Суворовская, д. 79
+10.228.94.103 or-nvrsk-suvorov79-p3 Суворовская, д. 79
+10.228.94.104 or-nvrsk-suvorov79-p4 Суворовская, д. 79
+10.228.94.85 sd-nvrsk-gluhova6-p8 Глухова, д. 6
+10.228.94.84 sd1-nvrsk-anapskoe41j-p5 Анапское, д. 41/к.Ж
+10.228.94.83 sd-nvrsk-lenina99-p3 Ленина, д. 99
+10.228.94.82 sd-nvrsk-lenina103-p1 Ленина, д. 103
+10.228.94.88 sd1-nvrsk-kunikova62a Куникова, д. 62/к.А
+10.228.94.126 or-nvrsk-chernjahov21-p1 Черняховского, д. 21
+10.228.94.125 or-nvrsk-chernjahov19-p1 Черняховского, д. 19
+10.228.94.121 or-nvrsk-vidova151-p2 Видова, д. 151
+10.228.94.122 or-nvrsk-vidova151-p3 Видова, д. 151
+10.228.94.123 or-nvrsk-vidova151-p4 Видова, д. 151
+10.228.94.111 sd-nvrsk-kunikova58-p2 Куникова, д. 58
+10.228.94.107 sd-nvrsk-anapskoe41g-p1 Анапское, д. 41/к.Г
+10.228.94.127 or-nvrsk-ahedzhaka6-p1 Мурата Ахеджака, д. 6
+10.228.94.128 or-nvrsk-ahedzhaka6-p2 Мурата Ахеджака, д. 6
+10.228.94.129 or-nvrsk-ahedzhaka6-p3 Мурата Ахеджака, д. 6
+10.228.94.106 sd-nvrsk-lenina103-p3 Ленина, д. 103
+10.228.94.124 or-nvrsk-ujnaya29-p1 Южная, д. 29
+10.228.94.118 sd-nvrsk-desant85-p2 Героев Десантников, д. 85
+10.228.94.143 sd-nvrsk-kunikova36-p6 Куникова, д. 36
+10.228.94.142 or-nvrsk-anapskoe41j-p1 Анапское, д. 41/к.Ж
+10.228.94.144 sd-nvrsk-anapskoe41e-p4 Анапское, д. 41/к.Е
+10.228.94.146 sd-nvrsk-lenina103-p4 Ленина, д. 103
+10.228.94.150 or-nvrsk-anapskoe39v-p1 Анапское, д. 39/к.В
+10.228.94.151 or-nvrsk-anapskoe39v-p2 Анапское, д. 39/к.В
+10.228.94.153 or-nvrsk-anapskoe39v-p3 Анапское, д. 39/к.В
+10.228.94.152 or-nvrsk-anapskoe39v-p4 Анапское, д. 39/к.В
+10.228.94.154 or-nvrsk-anapskoe39v-p5 Анапское, д. 39/к.В
+10.228.94.148 sd-nvrsk-nabereg69-p1 Серебрякова, д. 69
+10.228.94.149 sd-nvrsk-anapskoe41j-p3 Анапское, д. 41/к.Ж
+10.228.94.156 sd-nvrsk-desant75 Героев Десантников, д. 75
+10.228.94.200 sd-nvrsk-karamzina49 Карамзина, д. 49/14
+10.228.94.172 or-nvrsk-vidova121-p3 Видова, д. 121
+10.228.94.167 or-nvrsk-kunikova42-p5 Куникова, д. 42
+10.228.94.201 or-nvrsk-ujnaya27-p1 Южная, д. 27
+10.228.94.202 or-nvrsk-ujnaya27-p2 Южная, д. 27
+10.228.94.203 or-nvrsk-ujnaya27-p3 Южная, д. 27
+10.228.94.204 or-nvrsk-ujnaya27-p4 Южная, д. 27
+10.228.94.205 or-nvrsk-ujnaya27-p5 Южная, д. 27
+10.228.94.147 sd-nvrsk-anapskoe41j-p4 Анапское, д. 41/к.Ж
+10.228.94.228 or-nvrsk-kunikova60-p1 Куникова, д. 60
+10.228.94.165 or-nvrsk-nabereg41a-p2 Серебрякова, д. 41/к.А
+10.228.94.231 or-nvrsk-nabereg5-p2 Серебрякова, д. 5
+10.228.94.229 or-nvrsk-lenina15-p3 Ленина, д. 15
+10.228.94.232 or-nvrsk-anapskoe41l-p1 Анапское, д. 41/к.Л
+10.228.94.234 or1-nvrsk-kunikova20a Куникова, д. 20А
+10.228.94.233 or2-nvrsk-kunikova20a Куникова, д. 20А
+10.228.94.235 or-nvrsk-dzerjinskogo213a Дзержинского, д. 213А
+10.228.94.236 or1-nvrsk-lenina52-p1 Ленина, д. 52
+10.228.94.237 or2-nvrsk-lenina52-p1 Ленина, д. 52
+10.228.94.238 or1-nvrsk-lenina52-p2 Ленина, д. 52
+10.228.94.239 or2-nvrsk-lenina52-p2 Ленина, д. 52
+10.228.94.242 or1-nvrsk-lenina52-p4 Ленина, д. 52
+10.228.94.243 or2-nvrsk-lenina52-p4 Ленина, д. 52
+10.228.94.240 or1-nvrsk-lenina52-p3 Ленина, д. 52
+10.228.94.241 or2-nvrsk-lenina52-p3 Ленина, д. 52
+10.228.94.244 or-nvrsk-suvorov71-p1 Суворовская, д. 71
+10.228.94.245 or-nvrsk-suvorov71-p2 Суворовская, д. 71
+10.228.94.246 or-nvrsk-suvorov71-p3 Суворовская, д. 71
+10.228.94.248 or-nvrsk-shmidta38 Лейтенанта Шмидта, д. 38
+10.228.94.247 or-nvrsk-engels79 Энгельса, д. 79
+10.228.89.7 or-nvrsk-dzerjinskogo224-p3 Дзержинского, д. 224
+10.228.89.155 or1-nvrsk-anapskoe41i-p1 Анапское, д. 41/к.И
+10.228.94.90 sd-nvrsk-dzerjinskogo156 Дзержинского, д. 156
+10.228.94.169 or-nvrsk-skoblikova3-p2 Скобликова, д. 3
+10.228.94.175 or-nvrsk-dzerjinskogo164-p2 Дзержинского, д. 164
+10.228.94.249 or-nvrsk-nabereg67-p2 Серебрякова, д. 67
+10.228.94.171 or-nvrsk-nabereg51-p2 Серебрякова, д. 51
+10.228.89.175 or-nvrsk-malozem15-p4 Малоземельская, д. 15
+10.228.89.254 or-nvrsk-sovetov18 Советов, д. 18
+10.228.89.113 or-nvrsk-vidova121a-1 Видова, д. 121А/к.1
+10.228.89.123 or-nvrsk-vidova121a-2 Видова, д. 121А/к.2
+10.228.89.214 or-nvrsk-dzer218-p2 Дзержинского, д. 218
+10.228.89.135 or-nvrsk-vidova79-p2 Видова, д. 79
+10.228.89.171 or-nvrsk-serova17-p1 Серова, д. 17
+10.228.89.172 or-nvrsk-serova17-p2 Серова, д. 17
+10.228.89.207 or-nvrsk-dzerjinskogo217-p2 Дзержинского, д. 217

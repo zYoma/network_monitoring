@@ -1,0 +1,29 @@
+10.229.96.244 dm1-glnzh-griboedova15 Грибоедова, д. 15
+10.229.97.4 d1-glnzh-griboedova15 Грибоедова, д. 15
+10.229.97.10 qf1-glnzh-mkrparus13-p1 мкр. Парус, д. 13
+10.229.97.11 qf1-glnzh-mkrparus13-p2 мкр. Парус, д. 13
+10.229.97.5 d1-glnzh-mkrparus8-p2 мкр. Парус, д. 8
+10.229.97.7 d1-glnzh-mkrparus10-p2 мкр. Парус, д. 10
+10.229.97.8 qf1-glnzh-mkrparus11-p2 мкр. Парус, д. 11
+10.229.97.9 d1-glnzh-mkrparus12-p2 мкр. Парус, д. 12
+10.229.97.14 d1-glnzh-mkrparus6-p2 мкр. Парус, д. 6
+10.229.97.13 qf1-glnzh-mkrparus4-p2 мкр. Парус, д. 4
+10.229.97.15 d1-glnzh-mkrparus7-p2 мкр. Парус, д. 7
+10.229.97.12 d1-glnzh-mkrparus3-p2 мкр. Парус, д. 3
+10.229.97.6 d1-glnzh-mkrparus9-p2 мкр. Парус, д. 9
+10.229.97.16 qf1-glnzh-mkrparus17-p2 мкр. Парус, д. 17
+10.229.97.17 qf1-glnzh-mkrparus20-p2 мкр. Парус, д. 20
+10.229.98.4 or1-glnzh-griboedova15 Грибоедова, д. 15
+10.229.98.10 or1-glnzh-mkrparus13-p1 мкр. Парус, д. 13
+10.229.98.11 or1-glnzh-mkrparus13-p2 мкр. Парус, д. 13
+10.229.98.5 or1-glnzh-mkrparus8-p2 мкр. Парус, д. 8
+10.229.98.7 or1-glnzh-mkrparus10-p2 мкр. Парус, д. 10
+10.229.98.8 or1-glnzh-mkrparus11-p2 мкр. Парус, д. 11
+10.229.98.9 or1-glnzh-mkrparus12-p2 мкр. Парус, д. 12
+10.229.98.14 or1-glnzh-mkrparus6-p2 мкр. Парус, д. 6
+10.229.98.13 or1-glnzh-mkrparus4-p2 мкр. Парус, д. 4
+10.229.98.15 or1-glnzh-mkrparus7-p2 мкр. Парус, д. 7
+10.229.98.12 or1-glnzh-mkrparus3-p2 мкр. Парус, д. 3
+10.229.98.6 or1-glnzh-mkrparus9-p2 мкр. Парус, д. 9
+10.229.98.16 or1-glnzh-mkrparus17-p2 мкр. Парус, д. 17
+10.229.98.17 or1-glnzh-mkrparus20-p2 мкр. Парус, д. 20
